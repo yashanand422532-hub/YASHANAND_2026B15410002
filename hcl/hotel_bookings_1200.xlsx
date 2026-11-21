@@ -1,0 +1,1201 @@
+Booking_ID,Checkin_Date,Lead_Time_Days,Room_Type,Room_Rate,Nights,Booking_Channel,Traveler_Type,Canceled
+B00000,2025-05-15,,Deluxe,3080.04,6,Direct Website,Business,No
+B00001,2025-10-14,123.0,Deluxe,6418.87,2,Travel Agent,Leisure,No
+B00002,2026-08-08,103.0,Standard,14073.29,2,Travel Agent,Leisure,No
+B00003,2026-03-20,93.0,Deluxe,14371.81,6,Corporate,Leisure,Yes
+B00004,2025-05-15,159.0,Standard,14898.76,7,Travel Agent,Business,No
+B00005,2025-12-19,40.0,Standard,8455.03,2,Direct Website,Leisure,No
+B00006,2026-04-18,112.0,Suite,4717.87,5,Direct Website,Leisure,No
+B00007,2025-02-21,56.0,Deluxe,8599.31,4,Direct Website,Business,No
+B00008,2026-05-26,175.0,Standard,3778.91,5,Direct Website,Leisure,No
+B00009,2025-05-15,45.0,Standard,13406.7,3,Direct Website,Business,No
+B00010,2025-07-17,156.0,Suite,9506.72,6,Corporate,Business,No
+B00011,2025-10-06,113.0,Standard,7556.32,7,OTA,Business,No
+B00012,2025-12-04,38.0,Standard,3494.13,6,Travel Agent,Leisure,No
+B00013,2026-09-05,136.0,Standard,7565.51,7,Corporate,Business,No
+B00014,2025-05-30,43.0,Standard,13327.4,1,Travel Agent,Leisure,Yes
+B00015,2025-06-21,47.0,Standard,11292.57,5,OTA,Business,No
+B00016,2025-09-11,62.0,Suite,3530.69,7,OTA,Business,No
+B00017,2026-07-28,122.0,Standard,4498.84,4,Corporate,Business,No
+B00018,2026-10-08,70.0,Deluxe,7403.86,7,Travel Agent,Business,Yes
+B00019,2025-11-01,102.0,Deluxe,3767.19,3,Corporate,Business,No
+B00020,2026-04-09,99.0,Deluxe,14175.51,7,Direct Website,Business,No
+B00021,2026-09-06,,Deluxe,10653.65,7,Direct Website,Leisure,No
+B00022,2026-07-21,41.0,Deluxe,3685.29,5,Direct Website,Leisure,No
+B00023,2026-04-01,55.0,Deluxe,12350.72,5,Travel Agent,Leisure,No
+B00024,2025-12-28,40.0,Deluxe,7105.07,4,Travel Agent,Leisure,No
+B00025,2026-10-21,165.0,Deluxe,5560.88,3,OTA,Business,No
+B00026,2025-06-09,68.0,Deluxe,9624.81,4,OTA,Leisure,No
+B00027,2025-08-31,72.0,Deluxe,2667.15,7,Travel Agent,Leisure,No
+B00028,2026-04-22,120.0,Standard,8317.47,1,Corporate,Business,No
+B00029,2025-01-14,141.0,Deluxe,13047.56,2,Corporate,Leisure,Yes
+B00030,2025-12-01,123.0,Deluxe,14100.72,4,OTA,Business,No
+B00031,2026-07-26,99.0,Standard,6781.93,3,Travel Agent,Business,No
+B00032,2025-04-29,175.0,Suite,10530.46,5,Direct Website,Business,Yes
+B00033,2026-06-22,161.0,Standard,5335.29,3,Corporate,Business,No
+B00034,2025-10-03,36.0,Standard,9502.66,5,Direct Website,Business,No
+B00035,2026-07-30,28.0,Suite,5675.35,1,OTA,Leisure,No
+B00036,2026-03-01,70.0,Standard,9641.96,3,Travel Agent,Leisure,No
+B00037,2025-04-16,150.0,Standard,4646.53,5,Corporate,Leisure,No
+B00038,2026-05-07,173.0,Standard,14265.41,4,Direct Website,Business,No
+B00039,2025-02-07,126.0,Suite,13586.47,5,Travel Agent,Business,Yes
+B00040,2025-06-12,124.0,Standard,6711.48,5,Direct Website,Leisure,No
+B00041,2026-08-18,42.0,Deluxe,12208.29,3,Direct Website,Leisure,No
+B00042,2026-08-10,106.0,Deluxe,3693.8,3,OTA,Leisure,No
+B00043,2025-01-31,33.0,Deluxe,11754.51,7,Travel Agent,Leisure,No
+B00044,2025-09-11,97.0,Suite,6030.74,7,OTA,Business,Yes
+B00045,2025-03-04,34.0,Deluxe,4195.52,1,Corporate,Leisure,Yes
+B00046,2025-07-01,13.0,Standard,10977.39,5,Travel Agent,Business,Yes
+B00047,2026-10-10,174.0,Suite,8372.59,4,OTA,Leisure,Yes
+B00048,2025-05-11,160.0,Deluxe,9126.75,1,OTA,Leisure,No
+B00049,2026-03-06,123.0,Standard,9006.62,5,OTA,Business,Yes
+B00050,2026-06-22,112.0,Standard,3243.1,1,Direct Website,Leisure,No
+B00051,2026-08-13,43.0,Deluxe,3142.25,3,Travel Agent,Leisure,Yes
+B00052,2025-08-25,102.0,Standard,10014.59,5,Corporate,Business,Yes
+B00053,2026-04-12,134.0,Deluxe,10298.31,6,OTA,Leisure,Yes
+B00054,2025-11-20,97.0,Standard,3089.68,3,OTA,Leisure,No
+B00055,2025-03-13,50.0,Deluxe,7230.49,6,Corporate,Leisure,No
+B00056,2025-05-30,70.0,Standard,10160.64,6,Travel Agent,Business,No
+B00057,2026-05-16,151.0,Deluxe,10708.51,4,OTA,Business,Yes
+B00058,2026-04-04,45.0,Standard,12853.45,2,Direct Website,Business,No
+B00059,2025-12-15,173.0,Standard,7759.15,5,Corporate,Leisure,No
+B00060,2026-06-07,135.0,Standard,9353.22,1,Travel Agent,Leisure,No
+B00061,2026-04-08,160.0,Standard,9732.0,7,Travel Agent,Leisure,Yes
+B00062,2025-08-16,91.0,Deluxe,6400.57,3,OTA,Leisure,Yes
+B00063,2025-07-16,40.0,Deluxe,3172.82,6,Direct Website,Business,Yes
+B00064,2026-09-25,6.0,Standard,2552.82,6,OTA,Leisure,No
+B00065,2026-10-13,96.0,Suite,12951.57,4,Corporate,Business,No
+B00066,2025-01-21,71.0,Standard,5002.9,7,OTA,Business,No
+B00067,2026-06-14,20.0,Standard,10378.18,6,Travel Agent,Business,No
+B00068,2025-03-30,167.0,Deluxe,9713.09,7,Corporate,Leisure,No
+B00069,2026-07-31,174.0,Deluxe,7495.41,1,Direct Website,Leisure,No
+B00070,2026-01-29,67.0,Deluxe,12918.67,4,Direct Website,Business,Yes
+B00071,2026-04-06,120.0,Standard,11230.02,7,Direct Website,Business,No
+B00072,2026-04-15,74.0,Standard,2784.27,6,Corporate,Leisure,Yes
+B00073,2026-02-09,89.0,Deluxe,12208.68,4,Travel Agent,Leisure,No
+B00074,2025-06-17,112.0,Standard,8837.49,1,Corporate,Business,No
+B00075,2026-06-25,74.0,Standard,6837.74,2,Corporate,Business,No
+B00076,2026-01-06,144.0,Suite,11586.06,5,OTA,Leisure,No
+B00077,2025-12-31,34.0,Deluxe,11075.82,5,Direct Website,Business,No
+B00078,2025-08-02,120.0,Standard,6382.35,7,OTA,Leisure,Yes
+B00079,2025-01-07,176.0,Standard,14787.99,1,Travel Agent,Business,No
+B00080,2026-01-06,153.0,Deluxe,10608.86,3,OTA,Business,Yes
+B00081,2025-08-19,8.0,Standard,10072.25,2,Direct Website,Leisure,No
+B00082,2026-03-18,20.0,Standard,3373.5,7,Corporate,Business,No
+B00083,2025-09-01,113.0,Standard,5991.48,2,OTA,Leisure,No
+B00084,2026-10-13,166.0,Deluxe,8087.18,2,Travel Agent,Leisure,No
+B00085,2026-04-01,151.0,Deluxe,10382.82,3,Corporate,Business,No
+B00086,2025-11-01,162.0,Standard,8909.55,1,Travel Agent,Leisure,No
+B00087,2026-04-19,26.0,Standard,12037.91,5,Travel Agent,Business,Yes
+B00088,2026-03-10,93.0,Deluxe,5782.1,4,Direct Website,Business,No
+B00089,2026-02-20,130.0,Deluxe,11276.96,4,Travel Agent,Business,Yes
+B00090,2026-01-22,112.0,Deluxe,12707.46,7,Corporate,Leisure,No
+B00091,2026-09-16,139.0,Standard,12063.12,4,Corporate,Leisure,No
+B00092,2025-08-01,38.0,Deluxe,12135.58,3,Direct Website,Leisure,No
+B00093,2025-10-17,82.0,Suite,13606.34,3,Direct Website,Business,No
+B00094,2025-06-19,80.0,Deluxe,3552.23,6,Direct Website,Leisure,No
+B00095,2026-01-16,169.0,Standard,11214.89,4,Corporate,Business,No
+B00096,2026-10-23,36.0,Deluxe,14608.48,2,OTA,Leisure,No
+B00097,2026-02-12,58.0,Standard,9670.63,5,Travel Agent,Leisure,No
+B00098,2025-05-19,3.0,Standard,5216.45,6,OTA,Business,No
+B00099,2026-09-09,27.0,Standard,14984.42,2,Travel Agent,Business,No
+B00100,2026-06-13,176.0,Suite,4683.47,4,Corporate,Business,No
+B00101,2025-10-22,152.0,Standard,6694.47,4,OTA,Leisure,No
+B00102,2025-04-09,46.0,Suite,4650.78,2,Corporate,Business,No
+B00103,2025-09-27,126.0,Deluxe,8306.41,1,OTA,Business,Yes
+B00104,2026-06-23,106.0,Deluxe,7735.95,6,Direct Website,Business,No
+B00105,2026-01-22,163.0,Standard,8640.51,5,Direct Website,Business,No
+B00106,2025-05-05,54.0,Deluxe,14099.79,5,OTA,Leisure,No
+B00107,2025-04-17,,Standard,8479.05,3,Travel Agent,Leisure,No
+B00108,2026-10-10,66.0,Standard,8932.83,4,Corporate,Business,No
+B00109,2025-10-27,129.0,Standard,13583.53,7,Corporate,Leisure,No
+B00110,2026-04-04,71.0,Standard,12721.97,2,Travel Agent,Leisure,No
+B00111,2025-08-30,120.0,Deluxe,5496.53,5,OTA,Leisure,No
+B00112,2025-03-02,60.0,Standard,2661.57,1,Direct Website,Leisure,Yes
+B00113,2025-10-03,151.0,Standard,10368.74,1,Corporate,Leisure,Yes
+B00114,2026-04-09,114.0,Suite,13060.62,7,OTA,Business,No
+B00115,2025-08-12,51.0,Standard,9410.63,1,Corporate,Business,No
+B00116,2026-02-08,172.0,Standard,5139.71,5,Travel Agent,Leisure,Yes
+B00117,2025-10-21,127.0,Standard,11766.94,4,Corporate,Leisure,No
+B00118,2025-08-14,77.0,Standard,10869.24,6,Corporate,Leisure,No
+B00119,2025-06-20,24.0,Deluxe,9562.91,4,Travel Agent,Business,No
+B00120,2025-06-24,175.0,Standard,13291.7,5,Travel Agent,Leisure,No
+B00121,2025-06-21,135.0,Standard,12303.03,7,Direct Website,Leisure,No
+B00122,2026-04-26,120.0,Deluxe,10849.4,6,Direct Website,Business,Yes
+B00123,2025-08-14,149.0,Standard,10809.48,6,Travel Agent,Business,No
+B00124,2026-05-11,109.0,Suite,10777.53,2,Travel Agent,Leisure,Yes
+B00125,2025-07-28,41.0,Suite,9064.56,2,Travel Agent,Business,Yes
+B00126,2025-08-07,42.0,Standard,8299.02,4,OTA,Business,No
+B00127,2026-09-11,14.0,Standard,11370.01,5,Travel Agent,Leisure,No
+B00128,2026-08-10,11.0,Standard,10131.18,5,Corporate,Business,Yes
+B00129,2025-09-26,131.0,Standard,8624.76,6,Direct Website,Leisure,No
+B00130,2025-06-29,153.0,Standard,4083.27,1,OTA,Business,No
+B00131,2026-04-24,29.0,Deluxe,11274.11,2,Corporate,Leisure,Yes
+B00132,2025-02-16,103.0,Standard,10574.98,2,Direct Website,Leisure,No
+B00133,2025-11-02,22.0,Standard,6778.11,4,OTA,Business,No
+B00134,2026-02-06,74.0,Standard,6954.04,5,OTA,Business,No
+B00135,2026-03-29,142.0,Suite,5584.03,1,Travel Agent,Leisure,No
+B00136,2025-03-13,146.0,Suite,14523.94,7,OTA,Leisure,No
+B00137,2025-01-03,170.0,Standard,13252.52,3,Corporate,Business,No
+B00138,2025-07-05,55.0,Deluxe,9513.11,5,Direct Website,Business,No
+B00139,2025-03-21,170.0,Standard,7520.66,6,OTA,Business,No
+B00140,2025-12-06,141.0,Deluxe,11710.32,1,Travel Agent,Business,Yes
+B00141,2026-09-08,60.0,Deluxe,,7,Direct Website,Leisure,No
+B00142,2025-07-11,59.0,Suite,14698.14,7,Corporate,Leisure,No
+B00143,2025-10-31,19.0,Standard,3189.03,7,Travel Agent,Business,No
+B00144,2025-05-24,165.0,Standard,2928.57,1,Corporate,Business,No
+B00145,2025-01-30,36.0,Suite,9607.64,3,OTA,Leisure,No
+B00146,2026-04-16,48.0,Standard,5040.99,2,OTA,Business,No
+B00147,2025-06-21,74.0,Standard,10053.8,4,Corporate,Leisure,No
+B00148,2026-01-01,24.0,Deluxe,12267.79,7,Direct Website,Leisure,No
+B00149,2026-04-02,145.0,Deluxe,4226.37,6,OTA,Leisure,No
+B00150,2026-07-16,125.0,Deluxe,8007.6,6,OTA,Leisure,No
+B00151,2025-05-05,28.0,Deluxe,11108.34,3,OTA,Leisure,No
+B00152,2026-01-24,29.0,Deluxe,12923.29,7,OTA,Business,No
+B00153,2026-09-02,3.0,Standard,8704.3,7,Travel Agent,Leisure,No
+B00154,2025-11-20,170.0,Deluxe,5076.92,6,Direct Website,Business,No
+B00155,2025-01-28,78.0,Deluxe,9822.49,6,Corporate,Business,No
+B00156,2025-06-24,117.0,Suite,8181.46,5,Corporate,Business,Yes
+B00157,2026-06-16,26.0,Standard,12149.07,1,Direct Website,Leisure,No
+B00158,2026-06-14,41.0,Standard,9444.7,2,Corporate,Leisure,No
+B00159,2025-07-30,97.0,Deluxe,5992.79,6,OTA,Leisure,No
+B00160,2025-05-12,37.0,Standard,11929.91,3,Direct Website,Business,No
+B00161,2025-07-15,110.0,Standard,8971.84,2,OTA,Leisure,Yes
+B00162,2025-06-12,166.0,Deluxe,4719.33,7,Corporate,Business,Yes
+B00163,2026-05-11,,Deluxe,9538.4,4,Corporate,Business,No
+B00164,2026-07-18,109.0,Standard,14354.0,7,Travel Agent,Business,No
+B00165,2025-02-01,164.0,Standard,11318.95,2,Corporate,Leisure,Yes
+B00166,2026-05-11,160.0,Standard,6235.04,3,OTA,Leisure,No
+B00167,2026-05-19,1.0,Deluxe,11385.91,3,Corporate,Business,No
+B00168,2026-02-15,19.0,Standard,6032.58,3,Travel Agent,Leisure,No
+B00169,2026-08-06,177.0,Standard,9283.61,4,Direct Website,Leisure,No
+B00170,2025-01-27,166.0,Standard,9082.45,3,Direct Website,Business,No
+B00171,2026-04-14,57.0,Standard,5592.39,6,OTA,Business,No
+B00172,2025-03-27,93.0,Standard,6848.51,3,Direct Website,Leisure,Yes
+B00173,2026-08-24,103.0,Standard,14277.27,4,OTA,Leisure,No
+B00174,2025-12-01,120.0,Deluxe,5632.48,7,Corporate,Leisure,No
+B00175,2025-03-02,135.0,Standard,12512.84,4,Direct Website,Leisure,Yes
+B00176,2026-05-15,67.0,Standard,10842.13,1,Travel Agent,Business,No
+B00177,2026-05-17,160.0,Standard,9157.86,1,Corporate,Business,No
+B00178,2025-11-07,10.0,Standard,4218.94,4,OTA,Leisure,No
+B00179,2025-07-27,5.0,Standard,5057.13,5,Travel Agent,Leisure,No
+B00180,2025-01-12,172.0,Standard,4737.22,7,OTA,Leisure,No
+B00181,2026-08-31,31.0,Standard,9834.93,1,OTA,Leisure,No
+B00182,2025-05-04,179.0,Standard,14667.29,4,Corporate,Leisure,Yes
+B00183,2026-07-18,51.0,Deluxe,13465.49,3,Travel Agent,Leisure,Yes
+B00184,2026-01-29,65.0,Standard,2815.65,4,OTA,Business,No
+B00185,2026-04-04,5.0,Deluxe,5921.58,4,Corporate,Business,No
+B00186,2026-04-10,169.0,Deluxe,4465.72,3,Corporate,Business,No
+B00187,2026-07-29,64.0,Standard,14695.97,1,Corporate,Business,No
+B00188,2025-01-23,30.0,Standard,5445.13,1,Corporate,Leisure,No
+B00189,2026-10-26,87.0,Standard,5016.41,4,OTA,Business,No
+B00190,2025-01-29,27.0,Standard,10260.94,2,OTA,Leisure,No
+B00191,2026-10-31,142.0,Deluxe,9452.33,3,Direct Website,Business,No
+B00192,2025-06-24,13.0,Standard,5323.14,1,Travel Agent,Business,No
+B00193,2026-07-20,89.0,Deluxe,10879.56,1,Corporate,Business,No
+B00194,2025-02-25,70.0,Standard,3712.59,1,Travel Agent,Leisure,No
+B00195,2025-11-05,6.0,Deluxe,2742.11,3,Travel Agent,Business,Yes
+B00196,2025-12-29,9.0,Deluxe,3530.18,2,Corporate,Business,No
+B00197,2026-10-01,93.0,Deluxe,7060.85,2,Direct Website,Leisure,No
+B00198,2025-03-24,71.0,Suite,14687.7,3,OTA,Business,Yes
+B00199,2025-01-25,23.0,Suite,9340.59,3,Travel Agent,Leisure,No
+B00200,2026-03-10,24.0,Standard,11934.08,1,Direct Website,Leisure,Yes
+B00201,2025-02-02,144.0,Standard,6518.7,1,Corporate,Business,Yes
+B00202,2026-06-04,131.0,Standard,11491.74,7,Direct Website,Leisure,No
+B00203,2025-01-26,109.0,Standard,14577.26,5,Corporate,Leisure,Yes
+B00204,2026-10-12,150.0,Deluxe,6972.01,1,Travel Agent,Leisure,No
+B00205,2025-12-23,,Standard,14988.24,2,Corporate,Leisure,No
+B00206,2026-09-27,,Standard,10480.12,3,Corporate,Business,No
+B00207,2025-03-26,135.0,Deluxe,11857.39,7,Travel Agent,Business,Yes
+B00208,2025-07-02,36.0,Standard,5652.09,7,Corporate,Leisure,No
+B00209,2025-11-01,96.0,Deluxe,10538.63,6,OTA,Leisure,No
+B00210,2025-01-20,138.0,Standard,8887.58,1,Travel Agent,Business,No
+B00211,2025-03-10,108.0,Deluxe,14455.03,4,Corporate,Business,No
+B00212,2025-08-09,44.0,Deluxe,13808.44,4,Direct Website,Business,No
+B00213,2026-05-09,119.0,Standard,7458.41,5,OTA,Business,No
+B00214,2026-04-19,136.0,Deluxe,14335.87,6,Direct Website,Business,Yes
+B00215,2025-02-28,1.0,Standard,13560.16,3,Travel Agent,Leisure,No
+B00216,2025-02-10,102.0,Deluxe,9879.8,4,Corporate,Business,No
+B00217,2026-03-15,90.0,Deluxe,3526.47,2,Direct Website,Business,No
+B00218,2025-08-29,66.0,Standard,4509.88,2,Travel Agent,Leisure,Yes
+B00219,2026-06-14,7.0,Deluxe,3460.93,3,OTA,Leisure,No
+B00220,2025-07-19,,Suite,3849.91,6,Corporate,Business,Yes
+B00221,2025-08-31,135.0,Deluxe,14711.9,4,Direct Website,Business,No
+B00222,2025-05-27,148.0,Deluxe,5152.09,5,Direct Website,Business,Yes
+B00223,2025-06-28,75.0,Deluxe,11135.68,5,Direct Website,Leisure,Yes
+B00224,2026-04-18,169.0,Standard,10456.6,3,OTA,Leisure,No
+B00225,2025-11-12,166.0,Deluxe,10389.31,7,OTA,Business,No
+B00226,2026-03-17,119.0,Deluxe,5083.8,1,Corporate,Leisure,No
+B00227,2025-02-22,104.0,Standard,9741.83,7,OTA,Business,No
+B00228,2025-12-25,173.0,Standard,10319.23,1,Direct Website,Leisure,No
+B00229,2025-11-03,109.0,Standard,9630.07,3,Travel Agent,Leisure,No
+B00230,2026-09-02,168.0,Standard,4827.03,6,Direct Website,Leisure,No
+B00231,2025-10-11,176.0,Standard,11538.26,5,OTA,Business,No
+B00232,2025-03-10,35.0,Standard,3415.54,3,Travel Agent,Business,No
+B00233,2026-04-12,118.0,Deluxe,9890.0,7,OTA,Leisure,No
+B00234,2025-04-11,131.0,Standard,7953.24,1,Travel Agent,Leisure,Yes
+B00235,2026-09-01,147.0,Standard,5628.58,5,OTA,Leisure,No
+B00236,2025-09-14,62.0,Deluxe,12592.36,4,Corporate,Business,Yes
+B00237,2026-06-09,155.0,Standard,4698.66,2,OTA,Business,No
+B00238,2026-03-15,87.0,Standard,14162.27,7,Corporate,Business,No
+B00239,2025-11-07,69.0,Deluxe,13557.06,6,Travel Agent,Leisure,No
+B00240,2026-01-26,28.0,Suite,7007.34,1,Travel Agent,Leisure,No
+B00241,2025-05-03,57.0,Deluxe,6314.41,1,Direct Website,Leisure,No
+B00242,2025-02-19,175.0,Standard,4218.58,1,Direct Website,Business,No
+B00243,2026-05-28,,Standard,13954.1,3,Travel Agent,Leisure,No
+B00244,2026-10-04,130.0,Suite,10344.15,3,OTA,Leisure,No
+B00245,2026-07-31,161.0,Deluxe,2897.29,6,OTA,Business,No
+B00246,2025-07-24,48.0,Deluxe,8887.49,5,Corporate,Leisure,Yes
+B00247,2025-08-28,119.0,Deluxe,3572.49,1,OTA,Business,No
+B00248,2025-08-29,,Standard,9671.88,4,OTA,Leisure,No
+B00249,2026-04-16,152.0,Standard,8862.02,6,Travel Agent,Business,No
+B00250,2026-02-22,76.0,Deluxe,3535.58,7,Corporate,Leisure,Yes
+B00251,2026-06-17,153.0,Suite,12698.26,3,Corporate,Business,Yes
+B00252,2026-09-25,134.0,Standard,5778.96,1,Travel Agent,Leisure,No
+B00253,2025-09-20,138.0,Deluxe,9268.55,2,Direct Website,Leisure,No
+B00254,2026-03-20,166.0,Standard,10487.99,3,Direct Website,Leisure,No
+B00255,2025-12-01,142.0,Suite,14528.81,4,Travel Agent,Business,No
+B00256,2026-10-01,57.0,Standard,8672.65,3,Travel Agent,Leisure,No
+B00257,2025-08-25,93.0,Deluxe,13966.45,1,Direct Website,Leisure,No
+B00258,2025-05-06,85.0,Standard,6935.72,3,Travel Agent,Leisure,Yes
+B00259,2025-09-11,11.0,Deluxe,13217.97,3,Corporate,Business,Yes
+B00260,2026-02-18,106.0,Deluxe,,4,Direct Website,Business,No
+B00261,2026-09-30,78.0,Standard,11343.5,1,Corporate,Business,No
+B00262,2026-07-09,70.0,Deluxe,3607.65,6,OTA,Leisure,No
+B00263,2025-01-13,19.0,Suite,14825.63,3,OTA,Business,No
+B00264,2025-12-07,90.0,Suite,14424.2,3,Travel Agent,Business,No
+B00265,2025-04-17,104.0,Standard,8027.67,7,Direct Website,Business,No
+B00266,2025-08-31,19.0,Deluxe,9049.19,6,Direct Website,Business,No
+B00267,2026-09-24,114.0,Deluxe,9972.19,1,Corporate,Leisure,No
+B00268,2026-10-21,30.0,Deluxe,5937.97,2,OTA,Business,No
+B00269,2025-04-13,26.0,Standard,10930.89,1,Direct Website,Leisure,Yes
+B00270,2025-04-05,72.0,Deluxe,11232.02,4,Travel Agent,Business,No
+B00271,2026-04-11,70.0,Standard,9063.46,3,Direct Website,Leisure,Yes
+B00272,2025-10-02,164.0,Standard,4346.76,3,Corporate,Business,Yes
+B00273,2025-10-17,12.0,Standard,13989.82,4,Direct Website,Business,No
+B00274,2026-08-08,62.0,Standard,3938.06,4,Travel Agent,Business,No
+B00275,2026-09-08,132.0,Standard,10364.65,1,OTA,Business,Yes
+B00276,2026-08-26,44.0,Standard,3788.61,1,Corporate,Business,Yes
+B00277,2026-06-08,176.0,Deluxe,4326.26,6,Travel Agent,Leisure,No
+B00278,2026-10-18,133.0,Deluxe,2756.73,7,Corporate,Business,Yes
+B00279,2026-04-27,170.0,Standard,7042.05,6,Direct Website,Business,Yes
+B00280,2026-08-15,170.0,Deluxe,10494.78,7,OTA,Leisure,No
+B00281,2025-12-28,19.0,Suite,9019.3,4,Corporate,Business,No
+B00282,2025-02-04,82.0,Suite,10931.74,6,Direct Website,Business,No
+B00283,2026-07-01,134.0,Deluxe,10937.74,7,Corporate,Business,No
+B00284,2026-09-15,1.0,Suite,4252.17,7,Corporate,Business,No
+B00285,2025-07-28,81.0,Deluxe,3216.72,2,Travel Agent,Leisure,No
+B00286,2025-10-14,123.0,Suite,10316.98,2,Direct Website,Leisure,No
+B00287,2026-01-18,142.0,Suite,10665.3,3,Corporate,Leisure,No
+B00288,2026-03-12,74.0,Standard,9458.8,4,Corporate,Business,No
+B00289,2026-03-28,155.0,Suite,5572.03,7,OTA,Business,No
+B00290,2025-09-21,121.0,Deluxe,12634.57,3,Travel Agent,Business,No
+B00291,2026-07-26,8.0,Deluxe,3446.08,6,Direct Website,Leisure,Yes
+B00292,2026-06-29,49.0,Suite,10403.9,7,OTA,Business,No
+B00293,2026-09-23,168.0,Standard,,7,Direct Website,Leisure,Yes
+B00294,2026-01-21,0.0,Standard,10680.6,2,Travel Agent,Leisure,No
+B00295,2025-02-21,19.0,Deluxe,7721.57,2,Travel Agent,Business,No
+B00296,2026-07-20,62.0,Deluxe,11476.29,2,Travel Agent,Leisure,No
+B00297,2025-02-23,178.0,Suite,3152.4,6,Travel Agent,Business,No
+B00298,2025-05-10,126.0,Suite,9438.54,5,Corporate,Leisure,No
+B00299,2025-07-10,26.0,Deluxe,4310.97,3,Direct Website,Leisure,No
+B00300,2025-05-04,70.0,Suite,11029.77,1,Direct Website,Business,No
+B00301,2026-04-30,169.0,Standard,3999.45,4,Direct Website,Business,Yes
+B00302,2025-10-22,,Suite,3419.79,6,Corporate,Business,No
+B00303,2025-05-27,103.0,Standard,11414.03,4,Direct Website,Leisure,Yes
+B00304,2025-01-04,83.0,Deluxe,3294.15,2,Direct Website,Business,No
+B00305,2025-05-25,136.0,Standard,5306.64,5,Direct Website,Business,Yes
+B00306,2026-04-09,135.0,Deluxe,12809.19,5,Corporate,Leisure,No
+B00307,2026-06-16,149.0,Standard,12621.1,5,Travel Agent,Leisure,Yes
+B00308,2025-07-18,21.0,Standard,13176.57,7,Corporate,Leisure,No
+B00309,2025-02-19,81.0,Deluxe,6576.25,3,Direct Website,Business,No
+B00310,2026-01-08,124.0,Deluxe,9100.6,5,OTA,Business,No
+B00311,2026-06-08,75.0,Standard,12166.84,6,Travel Agent,Business,No
+B00312,2025-02-16,120.0,Deluxe,4212.32,2,Direct Website,Business,No
+B00313,2026-06-17,114.0,Standard,11554.89,2,Corporate,Leisure,No
+B00314,2025-04-25,66.0,Standard,3718.58,1,Corporate,Business,No
+B00315,2025-06-22,18.0,Standard,13915.63,3,Direct Website,Business,No
+B00316,2026-02-21,174.0,Deluxe,10466.38,1,Corporate,Leisure,No
+B00317,2025-02-04,148.0,Deluxe,8666.32,6,OTA,Business,No
+B00318,2025-07-24,161.0,Deluxe,8559.12,1,OTA,Leisure,No
+B00319,2025-04-03,53.0,Deluxe,4767.03,5,Corporate,Business,No
+B00320,2025-05-24,56.0,Deluxe,6823.97,5,Travel Agent,Business,Yes
+B00321,2026-06-02,58.0,Deluxe,11589.05,7,Direct Website,Business,Yes
+B00322,2025-06-03,5.0,Suite,9261.8,3,Corporate,Business,Yes
+B00323,2025-01-30,30.0,Standard,9116.33,3,Travel Agent,Business,Yes
+B00324,2025-05-24,55.0,Standard,,2,Direct Website,Leisure,Yes
+B00325,2025-02-28,177.0,Standard,11129.53,4,Travel Agent,Leisure,No
+B00326,2026-02-21,36.0,Deluxe,7400.42,2,Travel Agent,Business,No
+B00327,2026-10-13,91.0,Deluxe,4784.42,1,OTA,Leisure,No
+B00328,2025-04-23,98.0,Standard,14297.31,7,OTA,Business,No
+B00329,2026-05-03,64.0,Suite,8834.98,5,Corporate,Leisure,No
+B00330,2025-08-31,165.0,Suite,9100.46,1,Direct Website,Business,Yes
+B00331,2025-02-18,16.0,Standard,14767.15,5,Travel Agent,Business,No
+B00332,2026-04-06,156.0,Standard,7080.08,3,Corporate,Leisure,No
+B00333,2025-05-21,133.0,Standard,14287.76,2,Corporate,Business,No
+B00334,2025-12-10,55.0,Standard,11186.57,4,OTA,Leisure,No
+B00335,2025-12-06,,Suite,10413.7,6,OTA,Leisure,No
+B00336,2026-02-04,77.0,Deluxe,5430.23,1,Corporate,Business,No
+B00337,2025-04-01,174.0,Standard,3146.95,3,OTA,Leisure,No
+B00338,2025-06-17,6.0,Standard,7972.3,7,Travel Agent,Business,Yes
+B00339,2026-05-09,,Standard,2627.14,3,Travel Agent,Business,Yes
+B00340,2026-09-16,97.0,Standard,3387.53,1,Travel Agent,Business,Yes
+B00341,2025-01-08,167.0,Standard,9941.58,4,Travel Agent,Business,Yes
+B00342,2025-10-04,11.0,Deluxe,11555.9,5,OTA,Business,No
+B00343,2026-08-13,140.0,Deluxe,,7,OTA,Leisure,No
+B00344,2025-07-11,168.0,Suite,11656.26,5,OTA,Leisure,Yes
+B00345,2025-10-27,87.0,Standard,14371.57,1,Travel Agent,Leisure,No
+B00346,2026-08-28,156.0,Deluxe,11789.7,6,Corporate,Leisure,No
+B00347,2026-10-11,136.0,Standard,12308.94,6,Travel Agent,Leisure,No
+B00348,2026-03-15,38.0,Standard,11258.91,5,Travel Agent,Leisure,No
+B00349,2026-04-10,153.0,Suite,5309.22,7,OTA,Business,No
+B00350,2026-02-15,125.0,Deluxe,7011.12,6,Corporate,Business,No
+B00351,2025-07-09,2.0,Standard,14365.84,2,OTA,Business,No
+B00352,2026-08-17,102.0,Standard,10765.13,3,OTA,Leisure,No
+B00353,2025-01-23,117.0,Deluxe,12362.81,4,Direct Website,Business,No
+B00354,2025-02-09,144.0,Suite,14608.68,4,OTA,Business,No
+B00355,2026-02-07,138.0,Deluxe,5392.96,5,Travel Agent,Leisure,Yes
+B00356,2026-07-15,85.0,Standard,6521.08,5,Direct Website,Business,No
+B00357,2026-06-29,53.0,Standard,10560.02,1,Direct Website,Business,No
+B00358,2026-03-30,34.0,Standard,2804.47,4,Corporate,Business,No
+B00359,2025-09-09,16.0,Standard,9640.24,1,Corporate,Leisure,No
+B00360,2025-08-29,115.0,Deluxe,12608.6,4,OTA,Business,No
+B00361,2025-10-12,172.0,Deluxe,10130.54,3,OTA,Business,Yes
+B00362,2025-06-21,14.0,Standard,6192.42,2,Travel Agent,Business,No
+B00363,2025-10-08,126.0,Deluxe,11551.3,7,Corporate,Leisure,No
+B00364,2025-03-12,105.0,Deluxe,4325.4,2,OTA,Leisure,No
+B00365,2025-08-02,30.0,Deluxe,13684.67,1,Direct Website,Leisure,No
+B00366,2026-09-22,38.0,Standard,3761.44,3,OTA,Business,No
+B00367,2026-04-18,51.0,Standard,13293.64,6,OTA,Leisure,No
+B00368,2025-04-05,123.0,Standard,8722.62,1,Travel Agent,Leisure,No
+B00369,2025-07-11,53.0,Standard,7858.09,4,Direct Website,Business,Yes
+B00370,2025-06-23,149.0,Standard,8758.27,3,Travel Agent,Leisure,No
+B00371,2025-07-08,66.0,Standard,5002.58,7,Direct Website,Business,Yes
+B00372,2026-04-08,19.0,Standard,8221.07,1,Corporate,Business,No
+B00373,2026-08-22,17.0,Standard,13121.5,1,Travel Agent,Leisure,No
+B00374,2026-04-21,72.0,Suite,12511.94,4,Direct Website,Business,Yes
+B00375,2025-11-23,73.0,Deluxe,4538.11,2,Corporate,Business,No
+B00376,2025-04-18,132.0,Standard,10917.76,5,Travel Agent,Business,No
+B00377,2025-04-06,86.0,Suite,13210.47,2,Travel Agent,Business,No
+B00378,2026-06-29,29.0,Standard,12747.09,4,Direct Website,Leisure,No
+B00379,2026-03-30,38.0,Standard,7820.41,1,Direct Website,Business,Yes
+B00380,2025-12-08,101.0,Deluxe,3101.16,5,Corporate,Business,Yes
+B00381,2026-01-22,60.0,Standard,14139.62,4,OTA,Business,No
+B00382,2026-07-22,120.0,Standard,7448.56,1,Travel Agent,Business,Yes
+B00383,2026-06-29,166.0,Standard,7012.21,2,Corporate,Business,No
+B00384,2025-02-28,63.0,Deluxe,11993.94,1,OTA,Business,No
+B00385,2025-09-22,99.0,Deluxe,5799.65,1,OTA,Leisure,Yes
+B00386,2025-01-29,149.0,Standard,12934.35,5,Corporate,Leisure,No
+B00387,2025-09-15,37.0,Standard,3450.64,3,Direct Website,Leisure,No
+B00388,2026-03-03,91.0,Standard,11758.89,6,OTA,Business,No
+B00389,2025-05-20,54.0,Deluxe,14572.37,2,Corporate,Leisure,Yes
+B00390,2025-04-11,112.0,Standard,14947.11,6,Direct Website,Business,No
+B00391,2025-11-25,133.0,Suite,14047.55,5,OTA,Business,No
+B00392,2025-12-18,25.0,Deluxe,13384.53,5,OTA,Business,No
+B00393,2026-04-23,33.0,Standard,5986.0,6,Direct Website,Business,No
+B00394,2025-01-10,4.0,Deluxe,14583.1,5,Direct Website,Leisure,No
+B00395,2025-06-15,2.0,Standard,14098.71,6,OTA,Leisure,No
+B00396,2026-06-06,9.0,Standard,9179.66,6,Corporate,Business,No
+B00397,2026-04-02,127.0,Standard,7525.97,4,Direct Website,Leisure,No
+B00398,2026-08-25,162.0,Standard,3865.84,6,Travel Agent,Leisure,Yes
+B00399,2026-06-30,73.0,Deluxe,9882.93,6,OTA,Business,No
+B00400,2026-07-16,158.0,Suite,11256.82,6,Corporate,Leisure,No
+B00401,2025-12-08,131.0,Standard,7549.96,5,OTA,Business,Yes
+B00402,2026-10-04,145.0,Standard,7575.37,1,Corporate,Leisure,No
+B00403,2025-10-06,133.0,Deluxe,9666.39,4,OTA,Leisure,No
+B00404,2026-08-28,35.0,Standard,2847.3,1,Corporate,Business,No
+B00405,2025-09-20,94.0,Standard,14473.32,1,Corporate,Business,No
+B00406,2025-10-25,94.0,Suite,6123.82,3,OTA,Business,No
+B00407,2026-04-04,115.0,Deluxe,4261.14,4,Travel Agent,Leisure,No
+B00408,2025-09-24,143.0,Suite,2568.6,4,Direct Website,Leisure,No
+B00409,2025-04-09,20.0,Standard,13211.14,7,OTA,Business,No
+B00410,2026-08-23,121.0,Standard,13290.09,6,OTA,Leisure,No
+B00411,2025-10-31,149.0,Standard,3691.33,3,Corporate,Leisure,No
+B00412,2026-09-13,20.0,Suite,4403.02,3,Corporate,Leisure,Yes
+B00413,2025-09-25,74.0,Standard,8098.78,5,Corporate,Business,No
+B00414,2026-10-13,161.0,Standard,4821.3,2,Corporate,Leisure,No
+B00415,2026-02-08,4.0,Standard,11697.76,7,Corporate,Leisure,No
+B00416,2026-05-30,28.0,Deluxe,3225.5,6,Corporate,Business,No
+B00417,2026-05-21,144.0,Deluxe,9371.37,5,Travel Agent,Business,No
+B00418,2025-05-16,30.0,Deluxe,7284.89,2,Direct Website,Leisure,No
+B00419,2026-06-30,126.0,Standard,8311.83,5,Corporate,Leisure,No
+B00420,2026-09-25,162.0,Deluxe,7809.46,6,Direct Website,Leisure,No
+B00421,2026-03-19,89.0,Standard,4414.49,1,Direct Website,Leisure,No
+B00422,2026-09-26,87.0,Standard,,2,Corporate,Business,No
+B00423,2026-07-21,77.0,Standard,3310.1,4,Direct Website,Leisure,Yes
+B00424,2026-03-22,67.0,Deluxe,3941.07,3,Direct Website,Leisure,No
+B00425,2025-11-16,68.0,Standard,14723.69,5,Travel Agent,Leisure,No
+B00426,2026-07-28,99.0,Suite,5997.34,3,Travel Agent,Business,No
+B00427,2025-05-05,161.0,Standard,6337.82,7,Direct Website,Business,No
+B00428,2026-01-11,176.0,Standard,4088.83,3,OTA,Business,No
+B00429,2026-06-30,155.0,Deluxe,11939.55,3,Direct Website,Business,No
+B00430,2026-09-24,21.0,Deluxe,14051.79,1,OTA,Business,No
+B00431,2025-06-28,55.0,Standard,12371.88,2,Direct Website,Business,No
+B00432,2025-03-04,136.0,Deluxe,10157.7,2,Travel Agent,Business,No
+B00433,2025-08-12,98.0,Standard,12665.41,6,OTA,Business,No
+B00434,2026-08-01,60.0,Standard,7552.88,3,Corporate,Leisure,No
+B00435,2025-12-17,56.0,Deluxe,13243.72,2,Direct Website,Leisure,No
+B00436,2025-02-07,21.0,Deluxe,12481.49,3,Corporate,Business,Yes
+B00437,2025-03-21,59.0,Standard,2521.56,4,Corporate,Leisure,No
+B00438,2025-08-15,75.0,Standard,8597.43,6,OTA,Business,No
+B00439,2025-08-18,74.0,Deluxe,5807.71,7,Travel Agent,Business,No
+B00440,2025-04-01,98.0,Standard,3577.91,1,OTA,Leisure,No
+B00441,2025-11-27,49.0,Suite,13077.45,6,Travel Agent,Leisure,No
+B00442,2025-11-17,37.0,Deluxe,2599.37,3,Corporate,Business,No
+B00443,2025-05-14,159.0,Suite,11627.04,6,Travel Agent,Leisure,No
+B00444,2025-06-05,72.0,Standard,14852.4,1,Travel Agent,Business,No
+B00445,2026-03-21,45.0,Deluxe,8525.25,5,Corporate,Leisure,No
+B00446,2026-09-29,114.0,Standard,7140.51,7,OTA,Business,No
+B00447,2026-10-29,97.0,Standard,10072.91,1,Direct Website,Leisure,Yes
+B00448,2026-01-10,103.0,Standard,12558.72,6,Travel Agent,Business,No
+B00449,2025-01-26,39.0,Standard,5503.15,1,Travel Agent,Business,Yes
+B00450,2026-08-24,130.0,Suite,5633.77,7,Direct Website,Leisure,No
+B00451,2026-09-28,34.0,Deluxe,10089.73,6,Travel Agent,Business,No
+B00452,2025-07-06,150.0,Deluxe,14248.5,7,Direct Website,Business,No
+B00453,2025-09-25,76.0,Deluxe,6230.5,7,OTA,Leisure,Yes
+B00454,2025-01-18,,Deluxe,7209.43,3,Corporate,Business,No
+B00455,2026-06-21,69.0,Deluxe,14916.67,3,Travel Agent,Business,No
+B00456,2026-06-03,76.0,Deluxe,4702.78,5,Travel Agent,Business,Yes
+B00457,2025-01-14,119.0,Deluxe,3462.1,2,Travel Agent,Leisure,Yes
+B00458,2026-04-15,89.0,Deluxe,9871.94,3,Direct Website,Leisure,Yes
+B00459,2025-10-03,,Standard,2803.34,1,Corporate,Leisure,No
+B00460,2025-12-31,101.0,Suite,4755.42,7,OTA,Business,No
+B00461,2025-05-27,48.0,Standard,10277.61,2,Corporate,Business,No
+B00462,2026-06-30,19.0,Standard,10743.91,3,Corporate,Business,No
+B00463,2025-09-28,151.0,Suite,8880.32,4,Direct Website,Business,Yes
+B00464,2026-07-17,56.0,Standard,7296.85,3,Travel Agent,Leisure,No
+B00465,2025-04-10,107.0,Standard,9702.47,6,Direct Website,Leisure,Yes
+B00466,2026-01-29,30.0,Standard,10542.32,7,Travel Agent,Business,No
+B00467,2025-07-27,61.0,Standard,12543.53,5,OTA,Business,No
+B00468,2026-10-09,69.0,Suite,12409.39,6,Direct Website,Business,No
+B00469,2026-01-08,24.0,Deluxe,10810.01,1,Travel Agent,Business,No
+B00470,2026-04-27,175.0,Standard,13677.91,7,Corporate,Business,No
+B00471,2025-02-27,56.0,Suite,12975.32,1,Direct Website,Business,No
+B00472,2026-03-29,104.0,Deluxe,4165.58,1,Corporate,Business,No
+B00473,2025-03-09,101.0,Suite,14458.49,1,Corporate,Business,No
+B00474,2025-08-30,77.0,Standard,13646.78,2,Travel Agent,Leisure,No
+B00475,2025-05-29,105.0,Standard,6511.59,6,Corporate,Business,No
+B00476,2025-01-02,101.0,Standard,2752.31,3,OTA,Business,No
+B00477,2026-01-28,14.0,Standard,10049.7,6,Travel Agent,Leisure,No
+B00478,2025-06-11,120.0,Deluxe,7980.22,3,Travel Agent,Business,No
+B00479,2025-12-09,20.0,Standard,11869.58,1,Travel Agent,Business,No
+B00480,2026-05-27,78.0,Deluxe,,4,Corporate,Business,No
+B00481,2025-04-30,65.0,Deluxe,3456.13,2,Corporate,Business,Yes
+B00482,2026-04-20,80.0,Standard,5558.59,3,Corporate,Leisure,No
+B00483,2025-07-18,12.0,Standard,13531.55,4,Travel Agent,Leisure,No
+B00484,2025-08-10,126.0,Deluxe,2971.12,6,Corporate,Leisure,No
+B00485,2026-01-22,75.0,Suite,11708.37,5,Travel Agent,Business,No
+B00486,2026-02-23,10.0,Standard,6149.29,2,Travel Agent,Business,No
+B00487,2026-03-15,0.0,Suite,8158.0,6,Direct Website,Business,No
+B00488,2025-05-11,97.0,Deluxe,9137.57,5,OTA,Leisure,No
+B00489,2026-01-23,119.0,Deluxe,5626.02,2,Corporate,Leisure,Yes
+B00490,2025-06-26,98.0,Standard,10649.51,6,OTA,Business,No
+B00491,2025-07-05,129.0,Deluxe,11168.03,6,Travel Agent,Business,No
+B00492,2026-09-26,136.0,Deluxe,3563.24,5,Corporate,Business,No
+B00493,2025-03-09,156.0,Standard,7174.09,3,OTA,Business,No
+B00494,2025-10-04,176.0,Suite,11804.72,3,OTA,Business,No
+B00495,2025-10-21,159.0,Suite,11520.47,4,Direct Website,Business,No
+B00496,2025-06-13,143.0,Standard,9307.54,2,Direct Website,Leisure,No
+B00497,2026-06-10,77.0,Deluxe,12220.93,3,Travel Agent,Business,No
+B00498,2025-11-22,90.0,Deluxe,3845.56,1,Travel Agent,Business,No
+B00499,2026-04-27,110.0,Deluxe,3977.64,2,OTA,Business,No
+B00500,2025-09-16,30.0,Deluxe,10718.62,6,OTA,Leisure,No
+B00501,2026-08-23,121.0,Standard,11166.67,1,Direct Website,Business,No
+B00502,2026-05-04,105.0,Standard,12681.59,4,Corporate,Business,No
+B00503,2025-08-11,93.0,Standard,4762.96,4,Travel Agent,Leisure,No
+B00504,2026-10-06,150.0,Suite,8959.65,1,Direct Website,Leisure,No
+B00505,2026-08-02,123.0,Standard,10760.39,6,Travel Agent,Leisure,No
+B00506,2026-01-31,167.0,Suite,5296.24,7,OTA,Business,Yes
+B00507,2025-01-12,175.0,Standard,8961.6,5,Corporate,Leisure,No
+B00508,2026-01-31,148.0,Standard,10480.56,5,OTA,Leisure,No
+B00509,2026-04-08,53.0,Suite,5180.62,2,Corporate,Leisure,No
+B00510,2025-09-02,34.0,Deluxe,7194.54,6,Travel Agent,Leisure,No
+B00511,2025-04-07,53.0,Standard,5204.24,6,Direct Website,Business,No
+B00512,2026-01-13,128.0,Standard,13786.79,4,Corporate,Business,No
+B00513,2026-06-21,155.0,Standard,5459.99,5,Travel Agent,Business,No
+B00514,2025-08-02,158.0,Standard,4010.43,7,OTA,Business,No
+B00515,2025-11-02,123.0,Standard,,5,Direct Website,Leisure,No
+B00516,2025-01-01,122.0,Deluxe,3061.92,2,OTA,Business,No
+B00517,2026-04-16,171.0,Standard,4894.83,3,Travel Agent,Leisure,No
+B00518,2026-08-03,123.0,Standard,10102.61,2,Direct Website,Business,No
+B00519,2026-06-04,25.0,Standard,2720.62,3,OTA,Leisure,No
+B00520,2025-10-15,90.0,Standard,6084.3,7,Travel Agent,Business,No
+B00521,2025-01-31,64.0,Suite,3227.09,2,Travel Agent,Leisure,No
+B00522,2025-11-26,114.0,Standard,7545.73,7,Corporate,Leisure,Yes
+B00523,2026-09-22,114.0,Standard,3107.21,2,Direct Website,Leisure,No
+B00524,2025-02-25,52.0,Deluxe,10094.27,4,Corporate,Business,No
+B00525,2025-05-24,53.0,Suite,11105.3,4,OTA,Leisure,No
+B00526,2026-07-15,15.0,Deluxe,11641.72,1,Direct Website,Business,No
+B00527,2026-01-16,52.0,Deluxe,5304.29,2,Corporate,Leisure,No
+B00528,2025-04-24,148.0,Suite,13356.25,3,Travel Agent,Business,No
+B00529,2025-01-17,,Deluxe,11128.6,1,Travel Agent,Leisure,No
+B00530,2025-10-02,169.0,Suite,3208.13,6,OTA,Leisure,No
+B00531,2026-02-03,166.0,Standard,8009.58,4,Corporate,Leisure,No
+B00532,2026-07-17,154.0,Deluxe,12096.96,6,Direct Website,Business,No
+B00533,2026-08-15,32.0,Suite,6386.17,7,Direct Website,Leisure,No
+B00534,2025-11-03,60.0,Suite,7269.48,3,Direct Website,Leisure,No
+B00535,2025-10-10,10.0,Standard,10370.05,6,Travel Agent,Business,No
+B00536,2026-09-15,16.0,Deluxe,3193.51,1,Direct Website,Business,No
+B00537,2026-06-04,41.0,Standard,14586.69,4,Corporate,Business,No
+B00538,2025-05-21,50.0,Deluxe,4681.01,5,Direct Website,Business,No
+B00539,2026-04-01,2.0,Standard,2833.4,4,Travel Agent,Business,No
+B00540,2026-04-24,151.0,Deluxe,2566.54,6,Corporate,Business,No
+B00541,2025-06-06,94.0,Deluxe,,7,Corporate,Business,No
+B00542,2026-10-17,118.0,Standard,13553.17,3,OTA,Leisure,No
+B00543,2025-07-18,117.0,Standard,12747.03,2,Direct Website,Leisure,No
+B00544,2026-01-03,174.0,Standard,13900.57,5,Corporate,Leisure,No
+B00545,2025-11-27,26.0,Deluxe,,7,OTA,Business,No
+B00546,2026-04-09,61.0,Deluxe,8109.33,7,Corporate,Leisure,No
+B00547,2026-08-27,55.0,Deluxe,7323.26,6,Direct Website,Business,No
+B00548,2025-09-21,99.0,Standard,3080.23,2,Travel Agent,Leisure,No
+B00549,2025-09-15,94.0,Deluxe,13869.02,2,Direct Website,Leisure,No
+B00550,2026-05-18,142.0,Deluxe,8702.2,5,OTA,Leisure,No
+B00551,2026-09-30,100.0,Standard,8188.34,3,Direct Website,Leisure,No
+B00552,2026-09-01,42.0,Standard,8939.59,5,Corporate,Business,Yes
+B00553,2026-05-19,101.0,Standard,12426.93,7,Travel Agent,Leisure,No
+B00554,2026-04-16,173.0,Standard,5305.89,4,Direct Website,Leisure,No
+B00555,2026-05-30,104.0,Standard,11373.76,3,OTA,Leisure,Yes
+B00556,2026-09-19,106.0,Standard,11384.62,7,OTA,Leisure,No
+B00557,2025-01-08,31.0,Standard,,4,Travel Agent,Business,No
+B00558,2026-01-29,1.0,Standard,2608.54,5,OTA,Business,No
+B00559,2025-01-23,37.0,Standard,4629.94,1,OTA,Leisure,Yes
+B00560,2026-01-22,4.0,Deluxe,,4,Corporate,Leisure,Yes
+B00561,2025-09-22,81.0,Deluxe,13131.75,3,Travel Agent,Leisure,No
+B00562,2025-07-23,158.0,Standard,14563.96,1,Corporate,Leisure,No
+B00563,2026-08-20,80.0,Deluxe,9935.86,2,Corporate,Business,No
+B00564,2026-04-20,116.0,Deluxe,5151.67,5,Corporate,Business,No
+B00565,2026-01-15,154.0,Standard,4807.31,2,Corporate,Leisure,No
+B00566,2026-08-14,137.0,Standard,10493.05,1,Travel Agent,Leisure,No
+B00567,2025-03-07,117.0,Standard,5125.86,1,Travel Agent,Leisure,No
+B00568,2026-03-09,141.0,Deluxe,9413.59,1,Travel Agent,Leisure,Yes
+B00569,2025-04-15,50.0,Standard,12935.15,4,Direct Website,Leisure,No
+B00570,2025-06-05,75.0,Standard,7372.75,4,Corporate,Business,No
+B00571,2025-05-04,71.0,Deluxe,7230.9,5,Travel Agent,Leisure,No
+B00572,2025-12-31,143.0,Suite,2951.75,5,Corporate,Leisure,Yes
+B00573,2026-02-25,73.0,Standard,5676.06,4,Travel Agent,Business,Yes
+B00574,2026-05-21,168.0,Deluxe,11227.39,7,OTA,Leisure,No
+B00575,2025-10-22,33.0,Standard,7004.89,2,OTA,Leisure,No
+B00576,2026-09-21,30.0,Deluxe,4478.74,5,Corporate,Leisure,No
+B00577,2025-09-07,128.0,Deluxe,3822.1,1,Travel Agent,Leisure,No
+B00578,2025-04-15,137.0,Deluxe,3688.17,6,Corporate,Leisure,No
+B00579,2025-01-25,122.0,Standard,10739.17,3,Travel Agent,Leisure,No
+B00580,2025-03-27,55.0,Standard,10157.77,3,Travel Agent,Business,No
+B00581,2025-10-25,1.0,Deluxe,8981.51,1,Direct Website,Business,Yes
+B00582,2025-10-04,57.0,Standard,8754.08,4,Direct Website,Leisure,No
+B00583,2026-07-26,83.0,Suite,4414.21,3,Travel Agent,Leisure,No
+B00584,2025-03-26,74.0,Standard,8757.55,7,Direct Website,Leisure,No
+B00585,2025-06-25,165.0,Standard,3249.22,2,Direct Website,Business,No
+B00586,2026-10-18,155.0,Standard,14073.23,3,Corporate,Leisure,No
+B00587,2025-01-20,139.0,Standard,3225.34,7,Travel Agent,Business,No
+B00588,2025-10-11,3.0,Deluxe,7794.13,6,Direct Website,Business,No
+B00589,2025-05-13,22.0,Standard,2507.14,6,OTA,Leisure,No
+B00590,2025-12-23,78.0,Deluxe,12326.88,4,OTA,Leisure,No
+B00591,2026-10-14,111.0,Deluxe,4577.13,7,Direct Website,Leisure,No
+B00592,2025-06-01,122.0,Suite,14061.45,2,Travel Agent,Business,No
+B00593,2025-09-05,53.0,Deluxe,3049.72,6,OTA,Leisure,No
+B00594,2025-10-28,19.0,Suite,12759.84,5,Corporate,Leisure,No
+B00595,2026-06-19,59.0,Suite,,3,Direct Website,Business,Yes
+B00596,2026-10-21,142.0,Standard,5621.7,2,Corporate,Business,No
+B00597,2025-03-06,177.0,Suite,5030.25,4,Direct Website,Leisure,No
+B00598,2025-11-23,169.0,Suite,6970.97,1,Corporate,Leisure,No
+B00599,2026-05-19,106.0,Standard,12855.04,6,Corporate,Business,Yes
+B00600,2025-01-06,16.0,Deluxe,13274.46,2,OTA,Leisure,No
+B00601,2026-06-24,174.0,Standard,4691.07,3,OTA,Business,No
+B00602,2025-06-12,27.0,Deluxe,6918.1,2,Direct Website,Business,No
+B00603,2025-12-13,48.0,Standard,5468.64,4,OTA,Leisure,No
+B00604,2026-10-17,175.0,Deluxe,4033.04,3,Travel Agent,Leisure,No
+B00605,2026-03-01,,Standard,10580.62,2,Travel Agent,Business,No
+B00606,2026-10-24,35.0,Deluxe,6823.39,7,Direct Website,Business,No
+B00607,2026-02-08,90.0,Standard,5317.3,6,Direct Website,Leisure,No
+B00608,2025-05-21,14.0,Deluxe,13324.97,3,Travel Agent,Business,No
+B00609,2026-04-09,56.0,Standard,11853.97,1,Travel Agent,Business,No
+B00610,2026-02-16,171.0,Deluxe,12172.01,6,Corporate,Business,Yes
+B00611,2025-07-27,53.0,Standard,2989.95,5,Corporate,Business,Yes
+B00612,2025-02-21,160.0,Standard,13939.13,4,Travel Agent,Leisure,No
+B00613,2026-03-10,97.0,Standard,9684.23,5,Travel Agent,Business,Yes
+B00614,2026-01-22,118.0,Suite,8797.54,1,Travel Agent,Business,No
+B00615,2026-06-02,126.0,Standard,2632.32,4,OTA,Leisure,No
+B00616,2025-03-26,99.0,Deluxe,13720.78,2,Travel Agent,Leisure,Yes
+B00617,2025-12-27,6.0,Standard,9298.63,5,Direct Website,Business,No
+B00618,2026-07-02,165.0,Deluxe,12814.42,7,Corporate,Business,No
+B00619,2026-08-20,85.0,Standard,10693.89,4,Corporate,Leisure,No
+B00620,2026-09-21,117.0,Standard,12458.67,5,OTA,Business,No
+B00621,2025-05-22,99.0,Standard,11161.65,5,OTA,Business,No
+B00622,2025-04-26,118.0,Standard,14012.05,7,OTA,Business,No
+B00623,2026-01-21,63.0,Standard,5318.55,1,Corporate,Business,Yes
+B00624,2025-11-06,151.0,Standard,5026.25,3,Direct Website,Business,Yes
+B00625,2025-06-06,40.0,Deluxe,11406.77,2,OTA,Leisure,No
+B00626,2025-03-10,117.0,Suite,8767.44,6,Travel Agent,Business,No
+B00627,2025-04-07,104.0,Standard,9989.51,4,Travel Agent,Business,No
+B00628,2025-08-15,90.0,Suite,11356.78,6,OTA,Business,Yes
+B00629,2026-05-10,3.0,Standard,9342.85,4,Direct Website,Business,No
+B00630,2025-02-13,70.0,Standard,12346.17,7,Travel Agent,Leisure,No
+B00631,2025-03-12,8.0,Standard,6485.84,6,Travel Agent,Business,No
+B00632,2025-06-26,90.0,Standard,13237.38,1,Corporate,Business,No
+B00633,2026-08-08,123.0,Standard,3845.95,7,Direct Website,Business,Yes
+B00634,2026-10-25,94.0,Suite,10425.05,7,Direct Website,Leisure,No
+B00635,2025-10-22,136.0,Deluxe,13626.66,1,OTA,Leisure,No
+B00636,2025-01-30,64.0,Deluxe,5658.68,3,Travel Agent,Leisure,No
+B00637,2025-01-08,55.0,Standard,6585.43,7,Direct Website,Business,No
+B00638,2026-07-29,80.0,Standard,6318.02,6,Direct Website,Business,No
+B00639,2025-10-25,41.0,Deluxe,9553.3,4,OTA,Leisure,No
+B00640,2025-02-21,144.0,Standard,7660.9,4,OTA,Leisure,No
+B00641,2026-07-12,145.0,Standard,3849.49,1,Travel Agent,Business,Yes
+B00642,2025-12-20,74.0,Standard,13641.09,4,Direct Website,Business,No
+B00643,2025-08-22,142.0,Standard,5058.46,5,Corporate,Business,No
+B00644,2025-10-30,4.0,Deluxe,9176.0,3,Direct Website,Leisure,No
+B00645,2025-05-31,27.0,Standard,9935.06,3,OTA,Business,No
+B00646,2026-09-16,50.0,Standard,3009.4,6,Corporate,Leisure,Yes
+B00647,2026-06-12,69.0,Suite,3696.4,4,Travel Agent,Business,No
+B00648,2025-05-14,41.0,Suite,14646.12,2,Corporate,Business,No
+B00649,2026-05-07,92.0,Standard,10806.4,3,Direct Website,Business,No
+B00650,2025-05-01,142.0,Standard,2919.56,4,Travel Agent,Leisure,No
+B00651,2025-10-31,82.0,Deluxe,12427.49,2,Direct Website,Business,No
+B00652,2026-05-16,80.0,Standard,8856.79,4,Travel Agent,Business,No
+B00653,2025-01-25,10.0,Standard,3439.99,7,OTA,Business,No
+B00654,2026-05-01,50.0,Standard,11009.4,6,Corporate,Business,No
+B00655,2025-06-01,145.0,Standard,8741.9,2,Direct Website,Business,No
+B00656,2026-04-13,145.0,Suite,5061.5,4,Corporate,Business,No
+B00657,2025-11-30,18.0,Deluxe,,4,OTA,Leisure,No
+B00658,2025-01-18,3.0,Suite,6142.25,5,Travel Agent,Leisure,No
+B00659,2026-05-25,149.0,Deluxe,6056.96,6,Travel Agent,Leisure,No
+B00660,2025-06-23,31.0,Deluxe,5909.67,4,Direct Website,Business,No
+B00661,2026-09-30,103.0,Deluxe,12093.2,3,OTA,Leisure,No
+B00662,2026-07-16,148.0,Deluxe,11326.48,5,Travel Agent,Leisure,No
+B00663,2025-05-10,141.0,Standard,13789.32,1,Corporate,Business,No
+B00664,2026-02-06,99.0,Standard,5366.74,5,Corporate,Leisure,No
+B00665,2025-08-31,67.0,Deluxe,12329.56,7,Travel Agent,Leisure,No
+B00666,2026-02-07,,Standard,9663.07,5,OTA,Leisure,Yes
+B00667,2026-01-08,125.0,Standard,6358.5,4,OTA,Leisure,No
+B00668,2025-07-17,150.0,Standard,2943.18,6,OTA,Leisure,No
+B00669,2026-03-12,92.0,Deluxe,12736.84,4,OTA,Business,No
+B00670,2025-06-24,169.0,Standard,5513.39,4,OTA,Business,No
+B00671,2026-08-31,138.0,Standard,10396.79,6,Corporate,Business,No
+B00672,2026-09-26,11.0,Standard,9360.85,2,OTA,Leisure,No
+B00673,2025-04-21,52.0,Standard,2555.62,6,Direct Website,Business,No
+B00674,2026-05-02,143.0,Suite,14929.3,5,Travel Agent,Leisure,No
+B00675,2026-09-14,20.0,Standard,12679.12,4,Travel Agent,Leisure,No
+B00676,2025-03-26,127.0,Standard,8580.89,1,OTA,Business,No
+B00677,2026-05-10,61.0,Standard,11004.27,6,Travel Agent,Leisure,Yes
+B00678,2026-09-20,37.0,Deluxe,8457.43,2,Corporate,Leisure,Yes
+B00679,2025-05-31,97.0,Deluxe,11807.33,7,Corporate,Leisure,No
+B00680,2026-01-25,167.0,Standard,4179.11,6,Corporate,Leisure,No
+B00681,2026-06-18,161.0,Standard,8079.39,3,Travel Agent,Business,No
+B00682,2025-08-12,72.0,Deluxe,6694.21,4,Direct Website,Leisure,No
+B00683,2025-06-09,0.0,Suite,8245.69,1,Travel Agent,Leisure,No
+B00684,2025-09-23,159.0,Standard,8130.91,4,Corporate,Leisure,No
+B00685,2025-08-13,161.0,Standard,4288.67,1,Corporate,Business,No
+B00686,2026-05-01,108.0,Standard,14706.11,7,Corporate,Business,No
+B00687,2025-09-06,113.0,Standard,2693.65,5,Corporate,Business,Yes
+B00688,2025-09-09,94.0,Deluxe,2625.91,2,Travel Agent,Business,No
+B00689,2026-09-24,2.0,Suite,7168.02,6,Direct Website,Leisure,No
+B00690,2026-01-23,28.0,Suite,10254.7,1,OTA,Business,No
+B00691,2026-09-14,25.0,Deluxe,4745.67,4,OTA,Leisure,No
+B00692,2026-04-21,164.0,Standard,9164.93,1,Corporate,Business,No
+B00693,2026-08-16,8.0,Suite,11534.65,1,Corporate,Business,No
+B00694,2025-05-11,100.0,Standard,3675.76,2,OTA,Leisure,No
+B00695,2026-09-20,65.0,Standard,14805.28,3,OTA,Leisure,No
+B00696,2026-09-24,1.0,Deluxe,6708.76,6,Direct Website,Business,Yes
+B00697,2025-01-28,165.0,Standard,10530.19,7,Direct Website,Leisure,Yes
+B00698,2025-08-27,3.0,Deluxe,3884.0,6,OTA,Leisure,Yes
+B00699,2025-10-04,154.0,Suite,11368.58,6,Direct Website,Leisure,No
+B00700,2025-10-08,139.0,Deluxe,13005.7,4,OTA,Leisure,No
+B00701,2026-06-05,142.0,Deluxe,3816.06,3,Corporate,Leisure,No
+B00702,2026-04-13,29.0,Standard,4073.29,2,Travel Agent,Leisure,No
+B00703,2025-05-23,158.0,Standard,6013.09,7,Travel Agent,Leisure,No
+B00704,2026-02-12,107.0,Deluxe,2649.2,4,Direct Website,Leisure,No
+B00705,2026-10-15,72.0,Deluxe,,4,Corporate,Business,No
+B00706,2025-10-22,122.0,Suite,9979.8,1,Travel Agent,Business,No
+B00707,2026-09-13,61.0,Standard,10094.87,4,Travel Agent,Business,No
+B00708,2026-03-11,50.0,Standard,14487.03,5,OTA,Leisure,No
+B00709,2026-09-11,51.0,Standard,12900.37,4,Travel Agent,Leisure,No
+B00710,2026-08-27,102.0,Deluxe,12678.04,5,Corporate,Leisure,No
+B00711,2025-01-12,108.0,Deluxe,6743.78,6,Travel Agent,Business,No
+B00712,2026-06-20,43.0,Suite,6685.79,1,OTA,Leisure,No
+B00713,2025-05-07,44.0,Standard,6146.72,7,Travel Agent,Leisure,No
+B00714,2026-07-06,170.0,Standard,6833.7,6,Corporate,Business,No
+B00715,2026-06-25,92.0,Standard,7118.86,3,OTA,Leisure,No
+B00716,2025-06-22,154.0,Standard,4250.05,6,Corporate,Business,Yes
+B00717,2025-02-14,59.0,Standard,6949.35,1,Travel Agent,Leisure,No
+B00718,2025-10-08,51.0,Deluxe,8084.34,3,Direct Website,Business,Yes
+B00719,2025-07-22,50.0,Standard,6366.84,1,Corporate,Business,No
+B00720,2026-01-06,95.0,Standard,4566.84,5,Travel Agent,Business,No
+B00721,2025-02-24,140.0,Deluxe,7167.63,6,OTA,Business,Yes
+B00722,2025-01-30,90.0,Deluxe,8511.35,5,Direct Website,Business,No
+B00723,2025-10-20,53.0,Standard,11509.1,5,Corporate,Leisure,No
+B00724,2026-05-30,172.0,Standard,11390.47,2,Corporate,Leisure,No
+B00725,2025-07-30,103.0,Deluxe,5033.69,7,Direct Website,Leisure,Yes
+B00726,2025-08-05,70.0,Deluxe,,2,Travel Agent,Leisure,Yes
+B00727,2025-04-20,1.0,Deluxe,6297.49,4,Direct Website,Business,No
+B00728,2025-07-09,101.0,Standard,4464.2,5,OTA,Leisure,No
+B00729,2025-07-19,111.0,Deluxe,7447.36,6,Travel Agent,Leisure,No
+B00730,2025-06-23,,Suite,14741.83,7,Direct Website,Leisure,No
+B00731,2025-08-18,41.0,Standard,4763.39,5,Travel Agent,Leisure,No
+B00732,2025-07-09,29.0,Standard,6485.92,5,OTA,Business,No
+B00733,2026-04-01,179.0,Suite,11563.93,3,Travel Agent,Leisure,No
+B00734,2025-08-15,99.0,Standard,8864.78,4,Corporate,Leisure,No
+B00735,2026-05-20,4.0,Deluxe,3049.1,5,Direct Website,Business,Yes
+B00736,2026-02-09,19.0,Suite,4521.13,5,Corporate,Leisure,No
+B00737,2026-03-05,85.0,Standard,14190.62,5,Direct Website,Leisure,Yes
+B00738,2026-01-26,111.0,Deluxe,3789.56,4,Direct Website,Business,No
+B00739,2026-09-10,43.0,Standard,,2,OTA,Business,Yes
+B00740,2025-06-21,65.0,Suite,,1,OTA,Leisure,No
+B00741,2026-10-20,132.0,Suite,5817.99,3,Direct Website,Business,No
+B00742,2025-05-19,174.0,Suite,11563.48,3,OTA,Leisure,Yes
+B00743,2025-04-03,88.0,Standard,4623.69,5,Corporate,Leisure,Yes
+B00744,2026-07-07,74.0,Deluxe,6059.38,7,Travel Agent,Leisure,No
+B00745,2026-08-23,65.0,Suite,6397.78,5,Travel Agent,Business,No
+B00746,2025-03-04,24.0,Deluxe,14955.44,6,Direct Website,Business,No
+B00747,2026-02-06,9.0,Deluxe,5182.15,5,Direct Website,Business,No
+B00748,2025-12-10,150.0,Standard,4115.09,7,OTA,Leisure,Yes
+B00749,2025-05-28,6.0,Suite,14071.14,7,Corporate,Leisure,No
+B00506,2026-01-31,167.0,Suite,5296.24,7,OTA,Business,Yes
+B00357,2026-06-29,53.0,Standard,10560.02,1,Direct Website,Business,No
+B00133,2025-11-02,22.0,Standard,6778.11,4,OTA,Business,No
+B00250,2026-02-22,76.0,Deluxe,3535.58,7,Corporate,Leisure,Yes
+B00299,2025-07-10,26.0,Deluxe,4310.97,3,Direct Website,Leisure,No
+B00680,2026-01-25,167.0,Standard,4179.11,6,Corporate,Leisure,No
+B00336,2026-02-04,77.0,Deluxe,5430.23,1,Corporate,Business,No
+B00155,2025-01-28,78.0,Deluxe,9822.49,6,Corporate,Business,No
+B00528,2025-04-24,148.0,Suite,13356.25,3,Travel Agent,Business,No
+B00736,2026-02-09,19.0,Suite,4521.13,5,Corporate,Leisure,No
+B00097,2026-02-12,58.0,Standard,9670.63,5,Travel Agent,Leisure,No
+B00761,2025-05-15,174.0,Deluxe,10810.01,7,Direct Website,Leisure,No
+B00762,2026-06-07,156.0,Standard,3845.95,2,Direct Website,Business,No
+B00763,2025-04-21,123.0,Deluxe,12329.56,5,Travel Agent,Leisure,Yes
+B00764,2026-01-01,74.0,Deluxe,13131.75,4,OTA,Leisure,Yes
+B00765,2025-11-06,1.0,Standard,11004.27,6,Travel Agent,Business,No
+B00766,2026-05-29,94.0,Standard,12303.03,7,Direct Website,Business,No
+B00767,2026-06-18,163.0,Deluxe,,1,OTA,Leisure,No
+B00768,2025-10-22,60.0,Standard,7012.21,5,Travel Agent,Leisure,No
+B00769,2026-02-08,77.0,Deluxe,4261.14,5,Travel Agent,Business,No
+B00770,2026-09-06,160.0,Deluxe,3685.29,5,OTA,Leisure,No
+B00771,2025-08-12,75.0,Deluxe,10937.74,4,Corporate,Leisure,No
+B00772,2025-11-28,63.0,Standard,12679.12,3,Travel Agent,Business,No
+B00773,2025-09-03,20.0,Standard,6949.35,4,OTA,Business,Yes
+B00774,2025-02-23,55.0,Deluxe,10879.56,4,Direct Website,Business,No
+B00775,2025-01-14,37.0,Standard,10693.89,1,OTA,Business,No
+B00776,2026-06-11,143.0,Deluxe,7230.49,3,Travel Agent,Business,No
+B00777,2026-10-25,103.0,Standard,8624.76,3,Travel Agent,Leisure,No
+B00778,2025-07-04,149.0,Suite,11656.26,3,Travel Agent,Leisure,No
+B00779,2026-07-23,131.0,Standard,9298.63,4,Corporate,Leisure,Yes
+B00780,2025-03-21,77.0,Standard,13560.16,6,OTA,Leisure,No
+B00781,2025-04-05,165.0,Standard,10542.32,2,Travel Agent,Leisure,Yes
+B00782,2026-08-29,103.0,Standard,8704.3,1,Direct Website,Business,No
+B00783,2026-07-20,167.0,Standard,11390.47,6,Direct Website,Leisure,No
+B00784,2026-05-08,123.0,Deluxe,9890.0,1,Corporate,Leisure,No
+B00785,2025-09-03,123.0,Standard,12853.45,5,Direct Website,Business,No
+B00786,2026-09-18,65.0,Deluxe,11135.68,6,Corporate,Business,No
+B00787,2025-10-06,91.0,Standard,5652.09,7,Direct Website,Leisure,No
+B00788,2026-10-14,82.0,Standard,7972.3,3,Travel Agent,Leisure,Yes
+B00789,2025-04-10,107.0,Standard,6949.35,3,Corporate,Business,No
+B00790,2025-10-17,69.0,Suite,14698.14,5,Direct Website,Business,No
+B00791,2026-05-27,14.0,Deluxe,5921.58,2,Direct Website,Leisure,No
+B00792,2025-07-03,36.0,Standard,9164.93,1,Corporate,Business,No
+B00793,2025-08-28,153.0,Deluxe,6297.49,5,Direct Website,Business,No
+B00794,2025-11-01,41.0,Suite,8158.0,5,Corporate,Business,No
+B00795,2026-07-09,34.0,Standard,11186.57,1,Travel Agent,Leisure,Yes
+B00796,2026-03-06,170.0,Standard,10917.76,3,Travel Agent,Business,No
+B00797,2025-09-28,34.0,Deluxe,8457.43,7,Corporate,Leisure,Yes
+B00798,2026-02-17,53.0,Suite,10665.3,2,Corporate,Leisure,No
+B00799,2025-06-17,138.0,Suite,6142.25,7,Corporate,Business,No
+B00800,2025-10-18,82.0,Standard,4218.58,4,OTA,Business,Yes
+B00801,2026-10-05,53.0,Suite,7168.02,3,OTA,Leisure,No
+B00802,2026-02-04,135.0,Deluxe,11754.51,3,Direct Website,Business,No
+B00803,2026-04-29,173.0,Standard,13677.91,6,Direct Website,Leisure,No
+B00804,2026-04-28,35.0,Deluxe,9822.49,1,Corporate,Leisure,No
+B00805,2026-05-02,59.0,Deluxe,6418.87,1,Direct Website,Business,No
+B00806,2025-11-23,112.0,Suite,8245.69,6,Travel Agent,Leisure,No
+B00807,2026-06-17,159.0,Standard,4807.31,6,Travel Agent,Business,No
+B00808,2025-04-28,77.0,Suite,8880.32,6,Direct Website,Leisure,No
+B00809,2025-10-11,53.0,Standard,11166.67,7,Direct Website,Leisure,No
+B00810,2026-04-29,,Deluxe,3685.29,6,Travel Agent,Business,No
+B00811,2025-09-19,154.0,Standard,14947.11,3,Direct Website,Business,Yes
+B00812,2026-02-21,58.0,Standard,10480.56,7,Direct Website,Business,No
+B00813,2025-07-13,122.0,Standard,5058.46,2,Corporate,Business,No
+B00814,2025-06-13,53.0,Deluxe,14955.44,7,Direct Website,Leisure,No
+B00815,2025-03-18,80.0,Deluxe,6918.1,4,Travel Agent,Leisure,No
+B00816,2025-01-11,77.0,Deluxe,9100.6,3,OTA,Leisure,No
+B00817,2025-11-04,56.0,Standard,7759.15,4,Corporate,Business,No
+B00818,2026-08-07,102.0,Suite,11708.37,2,Corporate,Leisure,No
+B00819,2025-04-16,60.0,Deluxe,3101.16,1,Travel Agent,Business,No
+B00820,2026-02-16,152.0,Standard,4464.2,4,OTA,Leisure,No
+B00821,2026-09-08,164.0,Standard,6585.43,7,Travel Agent,Business,No
+B00822,2026-01-28,136.0,Deluxe,2897.29,2,Travel Agent,Leisure,No
+B00823,2026-06-25,20.0,Standard,3865.84,4,Direct Website,Leisure,No
+B00824,2025-09-14,171.0,Deluxe,2742.11,5,Corporate,Business,Yes
+B00825,2026-05-04,136.0,Standard,2552.82,7,OTA,Business,Yes
+B00826,2026-03-24,81.0,Suite,11656.26,4,Travel Agent,Leisure,Yes
+B00827,2026-05-19,87.0,Deluxe,7721.57,2,OTA,Business,No
+B00828,2026-09-08,109.0,Deluxe,4767.03,4,OTA,Leisure,Yes
+B00829,2026-07-13,87.0,Standard,7448.56,7,Travel Agent,Business,No
+B00830,2025-05-09,28.0,Standard,10842.13,5,Travel Agent,Leisure,No
+B00831,2026-01-08,5.0,Standard,5016.41,3,OTA,Leisure,No
+B00832,2025-08-10,20.0,Standard,5125.86,6,Direct Website,Leisure,No
+B00833,2026-01-25,103.0,Suite,10316.98,1,OTA,Business,No
+B00834,2025-07-31,80.0,Suite,8959.65,3,Corporate,Leisure,No
+B00835,2025-04-24,,Standard,2661.57,6,OTA,Leisure,No
+B00836,2025-07-10,55.0,Standard,4623.69,3,Direct Website,Leisure,No
+B00837,2025-10-06,174.0,Deluxe,4577.13,4,Direct Website,Business,No
+B00838,2025-12-06,19.0,Deluxe,14916.67,7,Travel Agent,Leisure,No
+B00839,2025-05-29,18.0,Suite,12698.26,2,Direct Website,Leisure,Yes
+B00840,2026-09-16,81.0,Standard,9006.62,5,OTA,Leisure,Yes
+B00841,2025-03-10,53.0,Deluxe,11232.02,1,Direct Website,Business,No
+B00842,2026-02-13,55.0,Deluxe,4538.11,6,Corporate,Leisure,No
+B00843,2025-03-18,109.0,Deluxe,6694.21,6,Direct Website,Business,No
+B00844,2026-03-03,99.0,Standard,11258.91,7,Travel Agent,Business,No
+B00845,2025-11-28,10.0,Suite,7168.02,6,Travel Agent,Business,No
+B00846,2026-10-07,,Standard,10487.99,3,Travel Agent,Business,Yes
+B00847,2025-09-16,74.0,Deluxe,12362.81,4,Travel Agent,Leisure,No
+B00848,2026-07-26,130.0,Deluxe,12923.29,3,Travel Agent,Business,Yes
+B00849,2026-03-01,155.0,Standard,3089.68,2,Travel Agent,Leisure,No
+B00850,2025-04-25,113.0,Deluxe,2971.12,7,Corporate,Leisure,Yes
+B00851,2026-05-10,16.0,Deluxe,12678.04,7,Corporate,Business,No
+B00852,2026-07-24,2.0,Standard,14695.97,2,Travel Agent,Business,No
+B00853,2025-04-12,176.0,Standard,6485.92,2,Corporate,Leisure,No
+B00854,2026-01-04,73.0,Standard,5323.14,5,Direct Website,Business,No
+B00855,2026-05-13,123.0,Standard,8130.91,3,Direct Website,Business,No
+B00856,2025-01-14,114.0,Deluxe,9513.11,6,Corporate,Business,No
+B00857,2025-06-04,77.0,Standard,12747.03,1,Direct Website,Business,Yes
+B00858,2025-07-14,149.0,Deluxe,10466.38,1,Direct Website,Business,No
+B00859,2026-01-02,176.0,Suite,12951.57,3,OTA,Business,No
+B00860,2025-09-14,135.0,Standard,5026.25,1,Corporate,Leisure,No
+B00861,2025-06-08,175.0,Deluxe,4033.04,4,Corporate,Leisure,No
+B00862,2026-01-06,,Standard,,6,OTA,Business,Yes
+B00863,2026-04-28,121.0,Suite,11656.26,4,OTA,Business,No
+B00864,2026-07-21,43.0,Deluxe,9513.11,7,Corporate,Leisure,No
+B00865,2025-06-29,171.0,Standard,5676.06,1,Direct Website,Business,No
+B00866,2026-09-21,90.0,Standard,5335.29,7,Direct Website,Business,No
+B00867,2026-09-08,29.0,Standard,8027.67,7,Direct Website,Business,No
+B00868,2025-03-01,92.0,Deluxe,3462.1,5,OTA,Leisure,No
+B00869,2025-12-03,94.0,Standard,5621.7,2,Corporate,Leisure,No
+B00870,2026-02-25,155.0,Suite,13356.25,1,Travel Agent,Leisure,No
+B00871,2025-02-15,48.0,Standard,3778.91,6,Travel Agent,Business,No
+B00872,2026-05-02,114.0,Standard,10456.6,4,Corporate,Leisure,Yes
+B00873,2025-02-08,3.0,Standard,7858.09,5,Corporate,Business,No
+B00874,2025-06-06,90.0,Suite,12698.26,1,Travel Agent,Leisure,Yes
+B00875,2026-01-29,6.0,Suite,4683.47,3,Corporate,Business,No
+B00876,2025-12-15,4.0,Standard,14012.05,2,Corporate,Business,Yes
+B00877,2026-07-13,81.0,Deluxe,4325.4,7,OTA,Leisure,No
+B00878,2025-09-15,139.0,Suite,10413.7,1,Direct Website,Business,No
+B00879,2026-01-20,169.0,Standard,6954.04,7,Travel Agent,Leisure,No
+B00880,2025-01-03,120.0,Standard,5652.09,7,Travel Agent,Business,No
+B00881,2025-05-03,156.0,Deluxe,4033.04,2,Travel Agent,Leisure,No
+B00882,2025-09-12,26.0,Deluxe,6297.49,7,Direct Website,Business,No
+B00883,2026-07-16,149.0,Standard,11390.47,4,Direct Website,Leisure,No
+B00884,2026-09-16,142.0,Standard,9342.85,4,Direct Website,Leisure,No
+B00885,2025-07-12,37.0,Deluxe,6823.39,2,Corporate,Leisure,No
+B00886,2026-06-11,102.0,Standard,12621.1,2,Travel Agent,Leisure,No
+B00887,2025-02-18,144.0,Deluxe,5304.29,1,Direct Website,Business,No
+B00888,2025-07-13,4.0,Deluxe,3535.58,7,OTA,Leisure,No
+B00889,2026-05-07,176.0,Deluxe,14099.79,1,Travel Agent,Leisure,No
+B00890,2025-09-27,28.0,Deluxe,11128.6,4,Travel Agent,Business,No
+B00891,2025-07-24,53.0,Standard,3415.54,5,Travel Agent,Business,No
+B00892,2026-08-06,64.0,Suite,5030.25,6,Corporate,Business,No
+B00893,2026-05-30,3.0,Suite,12759.84,7,OTA,Business,No
+B00894,2025-12-31,88.0,Standard,8939.59,4,Travel Agent,Leisure,No
+B00895,2026-07-28,43.0,Standard,4083.27,2,Travel Agent,Leisure,No
+B00896,2026-09-19,65.0,Standard,12166.84,7,OTA,Leisure,No
+B00897,2026-03-01,2.0,Standard,6511.59,6,Corporate,Leisure,No
+B00898,2025-09-02,118.0,Standard,4762.96,2,Travel Agent,Leisure,Yes
+B00899,2025-10-29,78.0,Standard,14586.69,5,Corporate,Business,No
+B00900,2026-09-20,102.0,Deluxe,12093.2,5,Direct Website,Business,Yes
+B00901,2025-04-15,151.0,Deluxe,4212.32,3,OTA,Business,No
+B00902,2025-03-12,167.0,Deluxe,3080.04,6,OTA,Leisure,No
+B00903,2026-05-26,177.0,Standard,4083.27,2,Direct Website,Leisure,Yes
+B00904,2025-04-22,48.0,Standard,5306.64,1,Direct Website,Business,Yes
+B00905,2025-12-08,127.0,Standard,7953.24,5,Corporate,Business,No
+B00906,2025-01-18,90.0,Standard,4218.58,5,Direct Website,Leisure,No
+B00907,2026-01-29,67.0,Deluxe,7105.07,3,OTA,Business,No
+B00908,2026-03-10,82.0,Standard,10456.6,5,Corporate,Business,No
+B00909,2026-07-26,104.0,Standard,4646.53,6,OTA,Business,No
+B00910,2026-02-17,174.0,Suite,11563.48,3,OTA,Business,No
+B00911,2025-11-07,89.0,Deluxe,8109.33,7,Corporate,Leisure,No
+B00912,2025-08-22,58.0,Standard,14577.26,7,Travel Agent,Business,No
+B00913,2025-08-31,55.0,Standard,11258.91,6,Corporate,Leisure,No
+B00914,2026-07-17,37.0,Standard,3845.95,6,Corporate,Business,No
+B00915,2025-10-05,123.0,Standard,7458.41,1,Travel Agent,Business,No
+B00916,2025-12-18,48.0,Suite,9607.64,3,Corporate,Leisure,No
+B00917,2025-02-04,61.0,Suite,10530.46,5,OTA,Business,Yes
+B00918,2025-10-24,40.0,Deluxe,3172.82,3,Travel Agent,Business,Yes
+B00919,2025-08-07,118.0,Deluxe,6708.76,1,Travel Agent,Leisure,No
+B00920,2025-05-26,114.0,Standard,11853.97,4,Corporate,Leisure,No
+B00921,2025-09-11,114.0,Standard,5204.24,4,Direct Website,Business,No
+B00922,2025-08-23,98.0,Standard,11390.47,1,Travel Agent,Business,No
+B00923,2026-08-01,42.0,Standard,4509.88,4,OTA,Leisure,No
+B00924,2026-10-26,122.0,Deluxe,3789.56,5,Direct Website,Business,Yes
+B00925,2026-09-04,159.0,Deluxe,14955.44,3,Corporate,Leisure,Yes
+B00926,2026-09-19,,Standard,8704.3,3,Direct Website,Business,No
+B00927,2025-05-24,120.0,Standard,5459.99,4,Direct Website,Leisure,Yes
+B00928,2025-03-20,76.0,Standard,14805.28,5,Direct Website,Business,No
+B00929,2025-03-27,107.0,Suite,14061.45,6,Corporate,Leisure,Yes
+B00930,2026-09-21,35.0,Standard,12747.03,6,Travel Agent,Leisure,No
+B00931,2026-01-24,74.0,Deluxe,7495.41,2,Travel Agent,Business,No
+B00932,2025-05-13,90.0,Standard,10917.76,7,Direct Website,Leisure,No
+B00933,2025-03-31,141.0,Deluxe,4310.97,7,Corporate,Leisure,Yes
+B00934,2025-12-16,175.0,Suite,11105.3,5,Corporate,Leisure,Yes
+B00935,2026-04-29,13.0,Standard,6518.7,4,Direct Website,Leisure,No
+B00936,2026-06-14,160.0,Standard,4115.09,1,Travel Agent,Leisure,No
+B00937,2026-02-19,151.0,Suite,13060.62,4,Direct Website,Business,No
+B00938,2025-10-20,4.0,Deluxe,5937.97,1,Travel Agent,Business,No
+B00939,2026-01-16,26.0,Standard,2928.57,6,Travel Agent,Leisure,No
+B00940,2026-07-02,175.0,Standard,9630.07,3,Travel Agent,Leisure,Yes
+B00941,2025-04-10,173.0,Standard,3310.1,7,OTA,Leisure,No
+B00942,2026-03-13,29.0,Deluxe,8981.51,4,Direct Website,Business,No
+B00943,2025-08-06,77.0,Standard,3718.58,3,OTA,Business,No
+B00944,2026-05-29,155.0,Deluxe,5496.53,2,Corporate,Leisure,No
+B00945,2026-09-19,60.0,Standard,14852.4,3,Direct Website,Business,No
+B00946,2026-04-27,43.0,Standard,4464.2,5,Corporate,Leisure,No
+B00947,2026-04-27,30.0,Suite,9019.3,3,Direct Website,Business,No
+B00948,2026-06-05,80.0,Suite,8797.54,6,Direct Website,Business,No
+B00949,2025-12-23,37.0,Deluxe,13966.45,4,OTA,Business,No
+B00950,2026-01-12,75.0,Deluxe,7495.41,2,Direct Website,Business,No
+B00951,2025-04-24,94.0,Standard,7953.24,5,Corporate,Business,No
+B00952,2026-04-19,96.0,Standard,3999.45,2,OTA,Business,No
+B00953,2025-10-21,75.0,Deluxe,7809.46,3,Corporate,Business,No
+B00954,2025-04-27,70.0,Standard,9671.88,7,Travel Agent,Business,No
+B00955,2025-02-09,134.0,Standard,3009.4,4,Travel Agent,Leisure,Yes
+B00956,2025-12-04,24.0,Suite,11256.82,2,Travel Agent,Business,No
+B00957,2026-05-26,38.0,Standard,6192.42,6,Direct Website,Business,No
+B00958,2025-03-21,27.0,Deluxe,3693.8,6,Travel Agent,Business,No
+B00959,2026-02-16,170.0,Deluxe,6230.5,7,Corporate,Business,No
+B00960,2026-03-25,81.0,Suite,8797.54,2,Corporate,Leisure,No
+B00961,2025-10-09,54.0,Suite,8797.54,5,Travel Agent,Leisure,No
+B00962,2026-02-11,16.0,Standard,4623.69,7,Travel Agent,Leisure,No
+B00963,2025-05-20,21.0,Standard,4088.83,2,Travel Agent,Leisure,No
+B00964,2025-04-26,75.0,Standard,4218.58,7,Travel Agent,Business,Yes
+B00965,2026-03-13,15.0,Deluxe,4681.01,5,Direct Website,Business,No
+B00966,2025-04-27,112.0,Deluxe,3789.56,7,Travel Agent,Business,No
+B00967,2025-03-21,160.0,Suite,5633.77,1,Corporate,Leisure,No
+B00968,2025-02-26,27.0,Standard,12166.84,6,OTA,Leisure,No
+B00969,2025-12-16,41.0,Suite,11804.72,4,Direct Website,Business,No
+B00970,2025-03-12,58.0,Deluxe,13243.72,4,Travel Agent,Leisure,No
+B00971,2025-10-11,40.0,Deluxe,5560.88,4,Corporate,Business,No
+B00972,2026-06-18,103.0,Deluxe,5658.68,1,OTA,Leisure,No
+B00973,2026-06-29,35.0,Standard,4218.58,6,Direct Website,Business,No
+B00974,2026-02-16,53.0,Standard,9353.22,5,Travel Agent,Leisure,No
+B00975,2025-05-19,52.0,Suite,6123.82,3,OTA,Leisure,Yes
+B00976,2026-02-10,1.0,Standard,10765.13,2,Corporate,Business,Yes
+B00977,2025-08-29,83.0,Standard,6585.43,4,Corporate,Leisure,No
+B00978,2026-06-19,109.0,Suite,4252.17,3,Corporate,Business,Yes
+B00979,2025-03-10,10.0,Deluxe,9713.09,2,Travel Agent,Leisure,No
+B00980,2025-03-27,85.0,Suite,14929.3,3,Direct Website,Leisure,Yes
+B00981,2025-05-06,11.0,Standard,9342.85,4,Corporate,Leisure,No
+B00982,2025-01-25,70.0,Standard,3865.84,4,Direct Website,Leisure,No
+B00983,2025-02-15,168.0,Deluxe,3216.72,6,Direct Website,Business,No
+B00984,2026-03-09,145.0,Standard,13939.13,2,Corporate,Leisure,No
+B00985,2026-10-21,53.0,Standard,14365.84,2,Travel Agent,Leisure,No
+B00986,2026-02-18,14.0,Deluxe,3552.23,5,OTA,Business,No
+B00987,2026-07-11,71.0,Standard,7972.3,2,Corporate,Leisure,No
+B00988,2026-04-28,126.0,Deluxe,7447.36,1,Travel Agent,Leisure,No
+B00989,2025-12-11,50.0,Deluxe,12208.68,3,Travel Agent,Business,Yes
+B00990,2026-01-28,170.0,Standard,14852.4,6,Travel Agent,Leisure,No
+B00991,2026-10-09,56.0,Standard,14354.0,5,OTA,Business,No
+B00992,2026-09-24,122.0,Standard,14988.24,5,OTA,Leisure,Yes
+B00993,2026-03-04,7.0,Standard,11373.76,6,Direct Website,Leisure,No
+B00994,2025-09-11,50.0,Deluxe,5304.29,1,Direct Website,Business,No
+B00995,2026-10-05,6.0,Suite,12511.94,1,Travel Agent,Leisure,No
+B00996,2026-06-25,0.0,Standard,12665.41,2,Travel Agent,Business,No
+B00997,2026-10-21,140.0,Deluxe,3535.58,1,Corporate,Business,No
+B00998,2026-09-10,138.0,Deluxe,12736.84,3,Corporate,Leisure,No
+B00999,2025-10-30,11.0,Deluxe,5992.79,6,Direct Website,Business,No
+B01000,2026-06-25,162.0,Suite,10403.9,4,OTA,Leisure,Yes
+B01001,2026-05-11,168.0,Standard,4414.49,3,Corporate,Business,No
+B01002,2026-02-27,174.0,Standard,3415.54,7,Direct Website,Leisure,No
+B01003,2026-08-02,19.0,Standard,13677.91,3,Travel Agent,Business,No
+B01004,2025-12-23,107.0,Deluxe,4261.14,7,Direct Website,Leisure,No
+B01005,2025-05-09,111.0,Deluxe,10094.27,2,Corporate,Leisure,No
+B01006,2026-03-20,56.0,Deluxe,7400.42,1,Corporate,Leisure,Yes
+B01007,2025-03-29,112.0,Standard,5305.89,4,Travel Agent,Business,No
+B01008,2026-09-26,59.0,Standard,7140.51,6,Travel Agent,Leisure,No
+B01009,2026-03-07,72.0,Deluxe,11589.05,1,Corporate,Business,No
+B01010,2025-04-04,97.0,Standard,9741.83,4,Travel Agent,Leisure,No
+B01011,2025-05-07,140.0,Deluxe,3685.29,4,Direct Website,Business,No
+B01012,2025-11-01,52.0,Standard,13252.52,5,Travel Agent,Business,No
+B01013,2025-08-08,165.0,Standard,14287.76,4,Corporate,Business,No
+B01014,2026-07-21,169.0,Standard,3415.54,4,OTA,Business,No
+B01015,2026-07-12,30.0,Standard,5058.46,1,Corporate,Leisure,No
+B01016,2026-10-20,16.0,Standard,14073.23,6,Corporate,Business,No
+B01017,2025-02-22,85.0,Standard,,5,Direct Website,Business,No
+B01018,2026-05-01,105.0,Suite,10931.74,1,Travel Agent,Business,No
+B01019,2026-10-14,50.0,Standard,3778.91,2,Travel Agent,Leisure,No
+B01020,2026-09-03,82.0,Standard,9116.33,5,Corporate,Business,No
+B01021,2025-12-06,28.0,Standard,3310.1,5,Corporate,Business,No
+B01022,2025-02-07,34.0,Deluxe,8666.32,2,Corporate,Leisure,No
+B01023,2026-03-30,38.0,Standard,14723.69,1,Corporate,Leisure,Yes
+B01024,2025-11-23,118.0,Deluxe,12135.58,3,Corporate,Leisure,No
+B01025,2026-02-09,,Standard,11258.91,1,Corporate,Business,No
+B01026,2026-09-03,68.0,Standard,9989.51,4,Travel Agent,Business,No
+B01027,2026-02-06,102.0,Standard,10277.61,3,Direct Website,Business,No
+B01028,2025-11-17,78.0,Standard,6781.93,3,Travel Agent,Leisure,Yes
+B01029,2025-10-26,61.0,Standard,12853.45,3,Corporate,Leisure,No
+B01030,2025-08-21,56.0,Deluxe,2566.54,1,Travel Agent,Business,No
+B01031,2025-02-02,144.0,Standard,2804.47,4,Travel Agent,Leisure,No
+B01032,2025-09-08,99.0,Standard,10493.05,1,Corporate,Business,No
+B01033,2025-01-06,90.0,Standard,5002.58,4,Direct Website,Leisure,No
+B01034,2025-07-31,131.0,Deluxe,9882.93,1,Direct Website,Business,No
+B01035,2025-01-09,34.0,Deluxe,9452.33,3,Travel Agent,Business,No
+B01036,2025-06-24,44.0,Standard,13176.57,5,OTA,Leisure,No
+B01037,2025-07-30,176.0,Standard,3080.23,1,Travel Agent,Leisure,No
+B01038,2025-08-07,61.0,Standard,8597.43,4,Travel Agent,Business,No
+B01039,2026-01-31,13.0,Suite,7168.02,2,OTA,Business,No
+B01040,2025-11-23,90.0,Standard,13939.13,1,Travel Agent,Business,No
+B01041,2026-03-21,174.0,Standard,13237.38,7,Corporate,Business,No
+B01042,2025-01-12,104.0,Standard,9157.86,4,OTA,Leisure,No
+B01043,2026-10-25,175.0,Suite,14741.83,4,Direct Website,Business,No
+B01044,2025-02-24,36.0,Deluxe,10653.65,5,Direct Website,Leisure,No
+B01045,2025-03-08,145.0,Deluxe,11939.55,4,Corporate,Leisure,No
+B01046,2025-07-27,59.0,Standard,7565.51,6,Corporate,Leisure,No
+B01047,2026-01-28,169.0,Standard,5323.14,3,Travel Agent,Business,No
+B01048,2026-10-24,,Deluxe,8525.25,5,OTA,Business,No
+B01049,2025-07-15,76.0,Standard,6837.74,3,Direct Website,Leisure,No
+B01050,2025-07-03,170.0,Standard,14898.76,2,Direct Website,Business,Yes
+B01051,2025-07-16,43.0,Standard,7118.86,3,Direct Website,Business,No
+B01052,2025-07-29,120.0,Deluxe,3446.08,4,Corporate,Business,No
+B01053,2025-08-06,134.0,Suite,6142.25,6,Corporate,Leisure,No
+B01054,2025-02-20,43.0,Deluxe,3080.04,6,Corporate,Business,Yes
+B01055,2026-08-17,126.0,Standard,3761.44,1,Travel Agent,Leisure,No
+B01056,2025-03-17,124.0,Deluxe,7167.63,7,OTA,Business,No
+B01057,2026-04-11,73.0,Standard,10487.99,3,Corporate,Business,No
+B01058,2026-10-10,48.0,Suite,3849.91,3,Corporate,Business,No
+B01059,2025-08-13,1.0,Standard,5652.09,4,Corporate,Leisure,No
+B01060,2026-10-12,45.0,Standard,4414.49,2,Corporate,Business,No
+B01061,2025-09-18,48.0,Deluxe,9822.49,5,Corporate,Leisure,No
+B01062,2025-12-01,51.0,Standard,7575.37,6,OTA,Business,No
+B01063,2026-05-26,35.0,Standard,6485.92,6,Corporate,Leisure,No
+B01064,2026-07-20,173.0,Suite,4521.13,4,OTA,Leisure,No
+B01065,2025-02-09,119.0,Deluxe,4767.03,1,OTA,Business,No
+B01066,2025-08-15,120.0,Suite,4403.02,3,OTA,Business,No
+B01067,2025-05-07,114.0,Deluxe,8702.2,5,Direct Website,Leisure,No
+B01068,2026-10-16,34.0,Deluxe,7230.9,5,OTA,Business,No
+B01069,2026-10-05,4.0,Standard,7556.32,7,Travel Agent,Business,Yes
+B01070,2026-06-08,162.0,Deluxe,13966.45,4,Corporate,Business,Yes
+B01071,2025-01-25,10.0,Standard,4623.69,5,Travel Agent,Leisure,Yes
+B01072,2025-05-09,30.0,Standard,2693.65,4,Direct Website,Leisure,No
+B01073,2025-05-13,37.0,Deluxe,4702.78,3,OTA,Leisure,Yes
+B01074,2025-02-07,42.0,Standard,6318.02,1,OTA,Business,No
+B01075,2025-08-29,89.0,Standard,4737.22,2,Corporate,Leisure,No
+B01076,2025-07-15,21.0,Standard,12621.1,2,Corporate,Leisure,Yes
+B01077,2025-12-10,12.0,Deluxe,4465.72,4,Corporate,Leisure,No
+B01078,2025-07-31,,Deluxe,11276.96,1,Travel Agent,Business,No
+B01079,2026-02-16,142.0,Deluxe,12329.56,3,Travel Agent,Leisure,No
+B01080,2026-10-26,90.0,Deluxe,8702.2,3,Corporate,Business,No
+B01081,2026-03-29,171.0,Deluxe,2599.37,1,Travel Agent,Business,No
+B01082,2026-03-05,,Deluxe,9126.75,5,Direct Website,Leisure,No
+B01083,2025-09-12,50.0,Deluxe,7794.13,3,Direct Website,Business,No
+B01084,2025-05-14,11.0,Standard,2803.34,7,Travel Agent,Leisure,Yes
+B01085,2025-11-28,80.0,Deluxe,9176.0,6,Travel Agent,Leisure,Yes
+B01086,2025-11-25,53.0,Standard,13237.38,4,Corporate,Leisure,No
+B01087,2025-12-20,26.0,Deluxe,2667.15,2,Direct Website,Business,No
+B01088,2025-08-23,145.0,Standard,10364.65,4,Direct Website,Business,Yes
+B01089,2025-02-09,30.0,Deluxe,12707.46,3,Corporate,Business,No
+B01090,2025-06-11,80.0,Suite,4755.42,4,Corporate,Leisure,No
+B01091,2025-06-27,122.0,Deluxe,6823.39,4,Direct Website,Leisure,No
+B01092,2025-06-06,4.0,Deluxe,7735.95,4,OTA,Business,Yes
+B01093,2025-07-30,136.0,Standard,3718.58,4,Travel Agent,Business,No
+B01094,2026-05-10,118.0,Standard,3310.1,4,Travel Agent,Leisure,No
+B01095,2025-03-23,14.0,Standard,7820.41,1,Direct Website,Leisure,No
+B01096,2026-03-22,142.0,Deluxe,7809.46,2,OTA,Business,No
+B01097,2025-02-10,133.0,Standard,8221.07,5,Direct Website,Leisure,No
+B01098,2026-07-24,165.0,Deluxe,5799.65,4,OTA,Business,Yes
+B01099,2025-08-24,115.0,Deluxe,3767.19,6,OTA,Leisure,No
+B01100,2025-08-11,163.0,Standard,9342.85,1,Direct Website,Business,No
+B01101,2025-10-14,126.0,Deluxe,13005.7,5,OTA,Leisure,No
+B01102,2025-05-13,,Standard,5986.0,2,Travel Agent,Business,No
+B01103,2026-10-25,94.0,Standard,3243.1,4,Direct Website,Business,No
+B01104,2026-05-31,142.0,Standard,13293.64,4,Corporate,Business,No
+B01105,2026-08-30,91.0,Deluxe,9713.09,3,OTA,Leisure,No
+B01106,2025-01-18,154.0,Deluxe,13869.02,6,Direct Website,Business,No
+B01107,2025-05-27,26.0,Deluxe,13274.46,4,Corporate,Leisure,No
+B01108,2025-11-15,33.0,Deluxe,14583.1,4,Corporate,Leisure,No
+B01109,2026-01-22,148.0,Standard,8754.08,6,Travel Agent,Leisure,No
+B01110,2025-12-20,22.0,Deluxe,9822.49,3,Travel Agent,Leisure,No
+B01111,2026-02-11,86.0,Suite,9506.72,7,Corporate,Business,No
+B01112,2025-05-20,42.0,Standard,8580.89,2,Corporate,Business,No
+B01113,2026-05-19,76.0,Standard,3249.22,3,OTA,Business,Yes
+B01114,2026-07-10,116.0,Suite,4521.13,7,OTA,Business,No
+B01115,2026-09-30,70.0,Standard,8704.3,3,Travel Agent,Business,No
+B01116,2026-05-23,16.0,Deluxe,9049.19,6,OTA,Business,No
+B01117,2025-07-28,74.0,Deluxe,11641.72,5,Travel Agent,Leisure,Yes
+B01118,2026-10-18,165.0,Deluxe,6297.49,3,OTA,Business,No
+B01119,2025-07-20,80.0,Standard,13237.38,5,Corporate,Leisure,No
+B01120,2025-03-21,87.0,Standard,7972.3,7,Travel Agent,Leisure,No
+B01121,2025-11-11,120.0,Standard,2928.57,5,Corporate,Business,Yes
+B01122,2026-01-17,36.0,Standard,12747.03,7,OTA,Leisure,No
+B01123,2025-03-25,170.0,Suite,9100.46,7,Direct Website,Business,Yes
+B01124,2025-09-30,143.0,Standard,5204.24,2,OTA,Leisure,No
+B01125,2026-07-05,158.0,Deluxe,12135.58,4,Direct Website,Business,No
+B01126,2026-02-08,112.0,Suite,8880.32,1,OTA,Leisure,No
+B01127,2026-09-03,32.0,Standard,9671.88,3,Direct Website,Leisure,No
+B01128,2025-04-15,96.0,Standard,,7,Corporate,Leisure,No
+B01129,2025-01-15,56.0,Standard,5125.86,5,Direct Website,Business,No
+B01130,2026-04-06,65.0,Standard,6192.42,4,Corporate,Business,Yes
+B01131,2025-03-17,111.0,Deluxe,10810.01,3,OTA,Business,No
+B01132,2025-06-19,170.0,Deluxe,5430.23,5,Direct Website,Business,Yes
+B01133,2025-04-27,118.0,Deluxe,11168.03,7,Travel Agent,Business,No
+B01134,2026-09-16,51.0,Standard,12935.15,6,OTA,Leisure,Yes
+B01135,2026-07-06,126.0,Standard,8130.91,1,Corporate,Leisure,No
+B01136,2025-02-16,76.0,Deluxe,14916.67,6,Direct Website,Leisure,No
+B01137,2025-11-23,143.0,Standard,10739.17,3,OTA,Business,No
+B01138,2025-09-24,67.0,Suite,14528.81,3,OTA,Business,No
+B01139,2025-01-04,54.0,Standard,11129.53,3,Travel Agent,Leisure,No
+B01140,2026-04-26,120.0,Standard,7042.05,7,Corporate,Business,No
+B01141,2025-09-18,158.0,Standard,6848.51,4,Direct Website,Business,No
+B01142,2026-07-06,30.0,Suite,10425.05,3,Direct Website,Leisure,No
+B01143,2025-06-04,51.0,Deluxe,12267.79,3,Travel Agent,Business,Yes
+B01144,2025-04-06,140.0,Standard,9353.22,7,Travel Agent,Business,Yes
+B01145,2026-03-17,42.0,Deluxe,11993.94,3,OTA,Leisure,No
+B01146,2026-07-03,162.0,Standard,6032.58,3,Travel Agent,Business,No
+B01147,2025-04-30,154.0,Deluxe,7794.13,4,Direct Website,Business,No
+B01148,2026-09-20,126.0,Standard,11538.26,7,Corporate,Leisure,No
+B01149,2025-10-21,122.0,Deluxe,14100.72,7,Direct Website,Business,No
+B01150,2025-04-12,121.0,Deluxe,14051.79,7,OTA,Business,No
+B01151,2025-02-11,142.0,Standard,4288.67,1,Corporate,Leisure,No
+B01152,2025-12-28,51.0,Deluxe,3193.51,1,Corporate,Leisure,No
+B01153,2025-01-11,97.0,Deluxe,9666.39,6,Corporate,Leisure,No
+B01154,2025-04-09,119.0,Deluxe,10494.78,7,Corporate,Business,No
+B01155,2025-01-31,82.0,Standard,9298.63,6,Corporate,Leisure,No
+B01156,2025-02-21,99.0,Suite,13060.62,2,OTA,Business,No
+B01157,2025-04-27,19.0,Standard,9684.23,6,Direct Website,Leisure,No
+B01158,2026-02-23,,Suite,12759.84,7,Corporate,Business,No
+B01159,2025-04-07,160.0,Standard,10560.02,7,Travel Agent,Business,No
+B01160,2025-06-21,10.0,Deluxe,5430.23,2,Corporate,Business,Yes
+B01161,2025-12-18,29.0,Deluxe,3460.93,1,Travel Agent,Business,No
+B01162,2026-10-12,74.0,Standard,8864.78,3,OTA,Business,No
+B01163,2026-07-14,156.0,Standard,7296.85,7,Direct Website,Leisure,No
+B01164,2025-07-17,99.0,Standard,10580.62,3,Travel Agent,Business,No
+B01165,2025-10-28,144.0,Deluxe,9268.55,2,Travel Agent,Business,No
+B01166,2025-03-30,21.0,Suite,11563.48,5,OTA,Business,Yes
+B01167,2025-10-04,126.0,Suite,4252.17,3,Travel Agent,Business,Yes
+B01168,2025-01-03,62.0,Standard,10693.89,1,OTA,Business,No
+B01169,2025-08-19,103.0,Standard,10160.64,2,Corporate,Leisure,No
+B01170,2025-05-01,118.0,Deluxe,12220.93,6,OTA,Business,No
+B01171,2025-04-18,68.0,Deluxe,11589.05,3,OTA,Leisure,No
+B01172,2026-05-03,16.0,Standard,8479.05,1,Travel Agent,Business,Yes
+B01173,2025-04-01,60.0,Deluxe,6297.49,1,Travel Agent,Business,Yes
+B01174,2025-11-12,150.0,Deluxe,9890.0,5,Corporate,Leisure,Yes
+B01175,2025-05-09,104.0,Deluxe,4478.74,3,Corporate,Business,No
+B01176,2026-01-04,156.0,Standard,4464.2,1,Direct Website,Business,Yes
+B01177,2026-04-09,177.0,Standard,7552.88,3,Corporate,Business,No
+B01178,2025-05-06,52.0,Deluxe,9666.39,3,Direct Website,Business,No
+B01179,2026-08-14,155.0,Standard,11258.91,6,Travel Agent,Business,No
+B01180,2026-01-13,138.0,Standard,13327.4,3,Travel Agent,Leisure,No
+B01181,2025-03-25,19.0,Standard,4083.27,6,Travel Agent,Leisure,No
+B01182,2026-08-04,6.0,Standard,13989.82,4,Corporate,Business,No
+B01183,2025-01-23,165.0,Standard,4762.96,2,Direct Website,Leisure,No
+B01184,2025-12-16,114.0,Standard,3310.1,4,Travel Agent,Business,No
+B01185,2026-07-24,55.0,Suite,5180.62,6,Corporate,Leisure,No
+B01186,2025-02-03,136.0,Standard,7525.97,6,Direct Website,Leisure,No
+B01187,2025-12-28,144.0,Standard,5305.89,2,Corporate,Business,No
+B01188,2025-07-09,106.0,Deluxe,12208.29,2,Travel Agent,Leisure,No
+B01189,2026-04-08,35.0,Standard,8672.65,7,Direct Website,Leisure,No
+B01190,2026-10-25,30.0,Suite,12511.94,7,Travel Agent,Business,No
+B01191,2025-03-10,59.0,Standard,8754.08,6,Travel Agent,Leisure,No
+B01192,2026-03-05,117.0,Standard,6013.09,6,Corporate,Leisure,No
+B01193,2025-06-22,,Suite,14687.7,7,Direct Website,Business,No
+B01194,2025-11-20,175.0,Deluxe,7230.49,4,Direct Website,Business,No
+B01195,2026-06-24,66.0,Deluxe,4767.03,4,Direct Website,Leisure,No
+B01196,2026-01-02,50.0,Standard,13954.1,6,OTA,Leisure,No
+B01197,2026-10-03,120.0,Standard,,2,OTA,Business,Yes
+B01198,2026-08-26,137.0,Deluxe,7323.26,3,OTA,Business,No
+B01199,2026-02-14,98.0,Deluxe,10653.65,2,Travel Agent,Leisure,No

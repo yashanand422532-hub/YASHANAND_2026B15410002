@@ -1,0 +1,5 @@
+Lead_Time_Band,Total_Bookings,Canceled_Bookings,Cancellation_Percentage
+Last-Minute,52,12,23.076923076923077
+Short-Term,138,19,13.768115942028986
+Medium-Term,426,81,19.014084507042252
+Advance,573,115,20.069808027923212

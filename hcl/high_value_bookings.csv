@@ -1,0 +1,12 @@
+Booking_ID,Checkin_Date,Lead_Time_Days,Room_Type,Room_Rate,Nights,Booking_Channel,Traveler_Type,Canceled,Arrival_Month,Arrival_Weekday,Booking_Revenue
+B00004,2025-05-15,159.0,Standard,14898.76,7,Travel Agent,Business,No,May,Thursday,104291.32
+B00136,2025-03-13,146.0,Suite,14523.94,7,OTA,Leisure,No,March,Thursday,101667.58
+B00142,2025-07-11,59.0,Suite,14698.14,7,Corporate,Leisure,No,July,Friday,102886.98
+B00164,2026-07-18,109.0,Standard,14354.0,7,Travel Agent,Business,No,July,Saturday,100478.0
+B00328,2025-04-23,98.0,Standard,14297.31,7,OTA,Business,No,April,Wednesday,100081.17
+B00686,2026-05-01,108.0,Standard,14706.11,7,Corporate,Business,No,May,Friday,102942.77
+B00730,2025-06-23,90.0,Suite,14741.83,7,Direct Website,Leisure,No,June,Monday,103192.81
+B00814,2025-06-13,53.0,Deluxe,14955.44,7,Direct Website,Leisure,No,June,Friday,104688.08
+B00838,2025-12-06,19.0,Deluxe,14916.67,7,Travel Agent,Leisure,No,December,Saturday,104416.69
+B00912,2025-08-22,58.0,Standard,14577.26,7,Travel Agent,Business,No,August,Friday,102040.82
+B01193,2025-06-22,90.0,Suite,14687.7,7,Direct Website,Business,No,June,Sunday,102813.90000000001

@@ -1,0 +1,13 @@
+Room_Type,Booking_Channel,Total_Bookings,Total_Room_Nights,Total_Revenue
+Deluxe,Corporate,81,336,2817665.15
+Deluxe,Direct Website,95,385,3292903.86
+Deluxe,OTA,82,340,2888132.84
+Deluxe,Travel Agent,73,257,2186752.28
+Standard,Corporate,137,494,4510008.86
+Standard,Direct Website,107,450,3760755.73
+Standard,OTA,103,447,3696280.91
+Standard,Travel Agent,149,589,5215167.13
+Suite,Corporate,37,154,1300871.26
+Suite,Direct Website,30,132,1303816.07
+Suite,OTA,35,141,1300362.68
+Suite,Travel Agent,33,113,1084773.19
